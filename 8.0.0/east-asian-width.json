@@ -1,0 +1,9846 @@
+{
+  "version": "8.0.0",
+  "values": [
+    {
+      "code_point_begin": "0000",
+      "code_point_end": "001F",
+      "property": "N"
+    },
+    {
+      "code_point": "0020",
+      "property": "Na"
+    },
+    {
+      "code_point_begin": "0021",
+      "code_point_end": "0023",
+      "property": "Na"
+    },
+    {
+      "code_point": "0024",
+      "property": "Na"
+    },
+    {
+      "code_point_begin": "0025",
+      "code_point_end": "0027",
+      "property": "Na"
+    },
+    {
+      "code_point": "0028",
+      "property": "Na"
+    },
+    {
+      "code_point": "0029",
+      "property": "Na"
+    },
+    {
+      "code_point": "002A",
+      "property": "Na"
+    },
+    {
+      "code_point": "002B",
+      "property": "Na"
+    },
+    {
+      "code_point": "002C",
+      "property": "Na"
+    },
+    {
+      "code_point": "002D",
+      "property": "Na"
+    },
+    {
+      "code_point_begin": "002E",
+      "code_point_end": "002F",
+      "property": "Na"
+    },
+    {
+      "code_point_begin": "0030",
+      "code_point_end": "0039",
+      "property": "Na"
+    },
+    {
+      "code_point_begin": "003A",
+      "code_point_end": "003B",
+      "property": "Na"
+    },
+    {
+      "code_point_begin": "003C",
+      "code_point_end": "003E",
+      "property": "Na"
+    },
+    {
+      "code_point_begin": "003F",
+      "code_point_end": "0040",
+      "property": "Na"
+    },
+    {
+      "code_point_begin": "0041",
+      "code_point_end": "005A",
+      "property": "Na"
+    },
+    {
+      "code_point": "005B",
+      "property": "Na"
+    },
+    {
+      "code_point": "005C",
+      "property": "Na"
+    },
+    {
+      "code_point": "005D",
+      "property": "Na"
+    },
+    {
+      "code_point": "005E",
+      "property": "Na"
+    },
+    {
+      "code_point": "005F",
+      "property": "Na"
+    },
+    {
+      "code_point": "0060",
+      "property": "Na"
+    },
+    {
+      "code_point_begin": "0061",
+      "code_point_end": "007A",
+      "property": "Na"
+    },
+    {
+      "code_point": "007B",
+      "property": "Na"
+    },
+    {
+      "code_point": "007C",
+      "property": "Na"
+    },
+    {
+      "code_point": "007D",
+      "property": "Na"
+    },
+    {
+      "code_point": "007E",
+      "property": "Na"
+    },
+    {
+      "code_point": "007F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0080",
+      "code_point_end": "009F",
+      "property": "N"
+    },
+    {
+      "code_point": "00A0",
+      "property": "N"
+    },
+    {
+      "code_point": "00A1",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00A2",
+      "code_point_end": "00A3",
+      "property": "Na"
+    },
+    {
+      "code_point": "00A4",
+      "property": "A"
+    },
+    {
+      "code_point": "00A5",
+      "property": "Na"
+    },
+    {
+      "code_point": "00A6",
+      "property": "Na"
+    },
+    {
+      "code_point": "00A7",
+      "property": "A"
+    },
+    {
+      "code_point": "00A8",
+      "property": "A"
+    },
+    {
+      "code_point": "00A9",
+      "property": "N"
+    },
+    {
+      "code_point": "00AA",
+      "property": "A"
+    },
+    {
+      "code_point": "00AB",
+      "property": "N"
+    },
+    {
+      "code_point": "00AC",
+      "property": "Na"
+    },
+    {
+      "code_point": "00AD",
+      "property": "A"
+    },
+    {
+      "code_point": "00AE",
+      "property": "A"
+    },
+    {
+      "code_point": "00AF",
+      "property": "Na"
+    },
+    {
+      "code_point": "00B0",
+      "property": "A"
+    },
+    {
+      "code_point": "00B1",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00B2",
+      "code_point_end": "00B3",
+      "property": "A"
+    },
+    {
+      "code_point": "00B4",
+      "property": "A"
+    },
+    {
+      "code_point": "00B5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "00B6",
+      "code_point_end": "00B7",
+      "property": "A"
+    },
+    {
+      "code_point": "00B8",
+      "property": "A"
+    },
+    {
+      "code_point": "00B9",
+      "property": "A"
+    },
+    {
+      "code_point": "00BA",
+      "property": "A"
+    },
+    {
+      "code_point": "00BB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "00BC",
+      "code_point_end": "00BE",
+      "property": "A"
+    },
+    {
+      "code_point": "00BF",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00C0",
+      "code_point_end": "00C5",
+      "property": "N"
+    },
+    {
+      "code_point": "00C6",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00C7",
+      "code_point_end": "00CF",
+      "property": "N"
+    },
+    {
+      "code_point": "00D0",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00D1",
+      "code_point_end": "00D6",
+      "property": "N"
+    },
+    {
+      "code_point": "00D7",
+      "property": "A"
+    },
+    {
+      "code_point": "00D8",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00D9",
+      "code_point_end": "00DD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "00DE",
+      "code_point_end": "00E1",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00E2",
+      "code_point_end": "00E5",
+      "property": "N"
+    },
+    {
+      "code_point": "00E6",
+      "property": "A"
+    },
+    {
+      "code_point": "00E7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "00E8",
+      "code_point_end": "00EA",
+      "property": "A"
+    },
+    {
+      "code_point": "00EB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "00EC",
+      "code_point_end": "00ED",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00EE",
+      "code_point_end": "00EF",
+      "property": "N"
+    },
+    {
+      "code_point": "00F0",
+      "property": "A"
+    },
+    {
+      "code_point": "00F1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "00F2",
+      "code_point_end": "00F3",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00F4",
+      "code_point_end": "00F6",
+      "property": "N"
+    },
+    {
+      "code_point": "00F7",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "00F8",
+      "code_point_end": "00FA",
+      "property": "A"
+    },
+    {
+      "code_point": "00FB",
+      "property": "N"
+    },
+    {
+      "code_point": "00FC",
+      "property": "A"
+    },
+    {
+      "code_point": "00FD",
+      "property": "N"
+    },
+    {
+      "code_point": "00FE",
+      "property": "A"
+    },
+    {
+      "code_point": "00FF",
+      "property": "N"
+    },
+    {
+      "code_point": "0100",
+      "property": "N"
+    },
+    {
+      "code_point": "0101",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0102",
+      "code_point_end": "0110",
+      "property": "N"
+    },
+    {
+      "code_point": "0111",
+      "property": "A"
+    },
+    {
+      "code_point": "0112",
+      "property": "N"
+    },
+    {
+      "code_point": "0113",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0114",
+      "code_point_end": "011A",
+      "property": "N"
+    },
+    {
+      "code_point": "011B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "011C",
+      "code_point_end": "0125",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0126",
+      "code_point_end": "0127",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0128",
+      "code_point_end": "012A",
+      "property": "N"
+    },
+    {
+      "code_point": "012B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "012C",
+      "code_point_end": "0130",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0131",
+      "code_point_end": "0133",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0134",
+      "code_point_end": "0137",
+      "property": "N"
+    },
+    {
+      "code_point": "0138",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0139",
+      "code_point_end": "013E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "013F",
+      "code_point_end": "0142",
+      "property": "A"
+    },
+    {
+      "code_point": "0143",
+      "property": "N"
+    },
+    {
+      "code_point": "0144",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0145",
+      "code_point_end": "0147",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0148",
+      "code_point_end": "014B",
+      "property": "A"
+    },
+    {
+      "code_point": "014C",
+      "property": "N"
+    },
+    {
+      "code_point": "014D",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "014E",
+      "code_point_end": "0151",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0152",
+      "code_point_end": "0153",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0154",
+      "code_point_end": "0165",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0166",
+      "code_point_end": "0167",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0168",
+      "code_point_end": "016A",
+      "property": "N"
+    },
+    {
+      "code_point": "016B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "016C",
+      "code_point_end": "017F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0180",
+      "code_point_end": "01BA",
+      "property": "N"
+    },
+    {
+      "code_point": "01BB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "01BC",
+      "code_point_end": "01BF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "01C0",
+      "code_point_end": "01C3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "01C4",
+      "code_point_end": "01CD",
+      "property": "N"
+    },
+    {
+      "code_point": "01CE",
+      "property": "A"
+    },
+    {
+      "code_point": "01CF",
+      "property": "N"
+    },
+    {
+      "code_point": "01D0",
+      "property": "A"
+    },
+    {
+      "code_point": "01D1",
+      "property": "N"
+    },
+    {
+      "code_point": "01D2",
+      "property": "A"
+    },
+    {
+      "code_point": "01D3",
+      "property": "N"
+    },
+    {
+      "code_point": "01D4",
+      "property": "A"
+    },
+    {
+      "code_point": "01D5",
+      "property": "N"
+    },
+    {
+      "code_point": "01D6",
+      "property": "A"
+    },
+    {
+      "code_point": "01D7",
+      "property": "N"
+    },
+    {
+      "code_point": "01D8",
+      "property": "A"
+    },
+    {
+      "code_point": "01D9",
+      "property": "N"
+    },
+    {
+      "code_point": "01DA",
+      "property": "A"
+    },
+    {
+      "code_point": "01DB",
+      "property": "N"
+    },
+    {
+      "code_point": "01DC",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "01DD",
+      "code_point_end": "024F",
+      "property": "N"
+    },
+    {
+      "code_point": "0250",
+      "property": "N"
+    },
+    {
+      "code_point": "0251",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0252",
+      "code_point_end": "0260",
+      "property": "N"
+    },
+    {
+      "code_point": "0261",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0262",
+      "code_point_end": "0293",
+      "property": "N"
+    },
+    {
+      "code_point": "0294",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0295",
+      "code_point_end": "02AF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "02B0",
+      "code_point_end": "02C1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "02C2",
+      "code_point_end": "02C3",
+      "property": "N"
+    },
+    {
+      "code_point": "02C4",
+      "property": "A"
+    },
+    {
+      "code_point": "02C5",
+      "property": "N"
+    },
+    {
+      "code_point": "02C6",
+      "property": "N"
+    },
+    {
+      "code_point": "02C7",
+      "property": "A"
+    },
+    {
+      "code_point": "02C8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "02C9",
+      "code_point_end": "02CB",
+      "property": "A"
+    },
+    {
+      "code_point": "02CC",
+      "property": "N"
+    },
+    {
+      "code_point": "02CD",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "02CE",
+      "code_point_end": "02CF",
+      "property": "N"
+    },
+    {
+      "code_point": "02D0",
+      "property": "A"
+    },
+    {
+      "code_point": "02D1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "02D2",
+      "code_point_end": "02D7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "02D8",
+      "code_point_end": "02DB",
+      "property": "A"
+    },
+    {
+      "code_point": "02DC",
+      "property": "N"
+    },
+    {
+      "code_point": "02DD",
+      "property": "A"
+    },
+    {
+      "code_point": "02DE",
+      "property": "N"
+    },
+    {
+      "code_point": "02DF",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "02E0",
+      "code_point_end": "02E4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "02E5",
+      "code_point_end": "02EB",
+      "property": "N"
+    },
+    {
+      "code_point": "02EC",
+      "property": "N"
+    },
+    {
+      "code_point": "02ED",
+      "property": "N"
+    },
+    {
+      "code_point": "02EE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "02EF",
+      "code_point_end": "02FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0300",
+      "code_point_end": "036F",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0370",
+      "code_point_end": "0373",
+      "property": "N"
+    },
+    {
+      "code_point": "0374",
+      "property": "N"
+    },
+    {
+      "code_point": "0375",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0376",
+      "code_point_end": "0377",
+      "property": "N"
+    },
+    {
+      "code_point": "037A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "037B",
+      "code_point_end": "037D",
+      "property": "N"
+    },
+    {
+      "code_point": "037E",
+      "property": "N"
+    },
+    {
+      "code_point": "037F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0384",
+      "code_point_end": "0385",
+      "property": "N"
+    },
+    {
+      "code_point": "0386",
+      "property": "N"
+    },
+    {
+      "code_point": "0387",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0388",
+      "code_point_end": "038A",
+      "property": "N"
+    },
+    {
+      "code_point": "038C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "038E",
+      "code_point_end": "0390",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0391",
+      "code_point_end": "03A1",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "03A3",
+      "code_point_end": "03A9",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "03AA",
+      "code_point_end": "03B0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "03B1",
+      "code_point_end": "03C1",
+      "property": "A"
+    },
+    {
+      "code_point": "03C2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "03C3",
+      "code_point_end": "03C9",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "03CA",
+      "code_point_end": "03F5",
+      "property": "N"
+    },
+    {
+      "code_point": "03F6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "03F7",
+      "code_point_end": "03FF",
+      "property": "N"
+    },
+    {
+      "code_point": "0400",
+      "property": "N"
+    },
+    {
+      "code_point": "0401",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0402",
+      "code_point_end": "040F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0410",
+      "code_point_end": "044F",
+      "property": "A"
+    },
+    {
+      "code_point": "0450",
+      "property": "N"
+    },
+    {
+      "code_point": "0451",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "0452",
+      "code_point_end": "0481",
+      "property": "N"
+    },
+    {
+      "code_point": "0482",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0483",
+      "code_point_end": "0487",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0488",
+      "code_point_end": "0489",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "048A",
+      "code_point_end": "04FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0500",
+      "code_point_end": "052F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0531",
+      "code_point_end": "0556",
+      "property": "N"
+    },
+    {
+      "code_point": "0559",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "055A",
+      "code_point_end": "055F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0561",
+      "code_point_end": "0587",
+      "property": "N"
+    },
+    {
+      "code_point": "0589",
+      "property": "N"
+    },
+    {
+      "code_point": "058A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "058D",
+      "code_point_end": "058E",
+      "property": "N"
+    },
+    {
+      "code_point": "058F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0591",
+      "code_point_end": "05BD",
+      "property": "N"
+    },
+    {
+      "code_point": "05BE",
+      "property": "N"
+    },
+    {
+      "code_point": "05BF",
+      "property": "N"
+    },
+    {
+      "code_point": "05C0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "05C1",
+      "code_point_end": "05C2",
+      "property": "N"
+    },
+    {
+      "code_point": "05C3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "05C4",
+      "code_point_end": "05C5",
+      "property": "N"
+    },
+    {
+      "code_point": "05C6",
+      "property": "N"
+    },
+    {
+      "code_point": "05C7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "05D0",
+      "code_point_end": "05EA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "05F0",
+      "code_point_end": "05F2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "05F3",
+      "code_point_end": "05F4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0600",
+      "code_point_end": "0605",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0606",
+      "code_point_end": "0608",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0609",
+      "code_point_end": "060A",
+      "property": "N"
+    },
+    {
+      "code_point": "060B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "060C",
+      "code_point_end": "060D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "060E",
+      "code_point_end": "060F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0610",
+      "code_point_end": "061A",
+      "property": "N"
+    },
+    {
+      "code_point": "061B",
+      "property": "N"
+    },
+    {
+      "code_point": "061C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "061E",
+      "code_point_end": "061F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0620",
+      "code_point_end": "063F",
+      "property": "N"
+    },
+    {
+      "code_point": "0640",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0641",
+      "code_point_end": "064A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "064B",
+      "code_point_end": "065F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0660",
+      "code_point_end": "0669",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "066A",
+      "code_point_end": "066D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "066E",
+      "code_point_end": "066F",
+      "property": "N"
+    },
+    {
+      "code_point": "0670",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0671",
+      "code_point_end": "06D3",
+      "property": "N"
+    },
+    {
+      "code_point": "06D4",
+      "property": "N"
+    },
+    {
+      "code_point": "06D5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "06D6",
+      "code_point_end": "06DC",
+      "property": "N"
+    },
+    {
+      "code_point": "06DD",
+      "property": "N"
+    },
+    {
+      "code_point": "06DE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "06DF",
+      "code_point_end": "06E4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "06E5",
+      "code_point_end": "06E6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "06E7",
+      "code_point_end": "06E8",
+      "property": "N"
+    },
+    {
+      "code_point": "06E9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "06EA",
+      "code_point_end": "06ED",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "06EE",
+      "code_point_end": "06EF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "06F0",
+      "code_point_end": "06F9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "06FA",
+      "code_point_end": "06FC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "06FD",
+      "code_point_end": "06FE",
+      "property": "N"
+    },
+    {
+      "code_point": "06FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0700",
+      "code_point_end": "070D",
+      "property": "N"
+    },
+    {
+      "code_point": "070F",
+      "property": "N"
+    },
+    {
+      "code_point": "0710",
+      "property": "N"
+    },
+    {
+      "code_point": "0711",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0712",
+      "code_point_end": "072F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0730",
+      "code_point_end": "074A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "074D",
+      "code_point_end": "074F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0750",
+      "code_point_end": "077F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0780",
+      "code_point_end": "07A5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "07A6",
+      "code_point_end": "07B0",
+      "property": "N"
+    },
+    {
+      "code_point": "07B1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "07C0",
+      "code_point_end": "07C9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "07CA",
+      "code_point_end": "07EA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "07EB",
+      "code_point_end": "07F3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "07F4",
+      "code_point_end": "07F5",
+      "property": "N"
+    },
+    {
+      "code_point": "07F6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "07F7",
+      "code_point_end": "07F9",
+      "property": "N"
+    },
+    {
+      "code_point": "07FA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0800",
+      "code_point_end": "0815",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0816",
+      "code_point_end": "0819",
+      "property": "N"
+    },
+    {
+      "code_point": "081A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "081B",
+      "code_point_end": "0823",
+      "property": "N"
+    },
+    {
+      "code_point": "0824",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0825",
+      "code_point_end": "0827",
+      "property": "N"
+    },
+    {
+      "code_point": "0828",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0829",
+      "code_point_end": "082D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0830",
+      "code_point_end": "083E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0840",
+      "code_point_end": "0858",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0859",
+      "code_point_end": "085B",
+      "property": "N"
+    },
+    {
+      "code_point": "085E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "08A0",
+      "code_point_end": "08B4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "08E3",
+      "code_point_end": "08FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0900",
+      "code_point_end": "0902",
+      "property": "N"
+    },
+    {
+      "code_point": "0903",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0904",
+      "code_point_end": "0939",
+      "property": "N"
+    },
+    {
+      "code_point": "093A",
+      "property": "N"
+    },
+    {
+      "code_point": "093B",
+      "property": "N"
+    },
+    {
+      "code_point": "093C",
+      "property": "N"
+    },
+    {
+      "code_point": "093D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "093E",
+      "code_point_end": "0940",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0941",
+      "code_point_end": "0948",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0949",
+      "code_point_end": "094C",
+      "property": "N"
+    },
+    {
+      "code_point": "094D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "094E",
+      "code_point_end": "094F",
+      "property": "N"
+    },
+    {
+      "code_point": "0950",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0951",
+      "code_point_end": "0957",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0958",
+      "code_point_end": "0961",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0962",
+      "code_point_end": "0963",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0964",
+      "code_point_end": "0965",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0966",
+      "code_point_end": "096F",
+      "property": "N"
+    },
+    {
+      "code_point": "0970",
+      "property": "N"
+    },
+    {
+      "code_point": "0971",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0972",
+      "code_point_end": "097F",
+      "property": "N"
+    },
+    {
+      "code_point": "0980",
+      "property": "N"
+    },
+    {
+      "code_point": "0981",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0982",
+      "code_point_end": "0983",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0985",
+      "code_point_end": "098C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "098F",
+      "code_point_end": "0990",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0993",
+      "code_point_end": "09A8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09AA",
+      "code_point_end": "09B0",
+      "property": "N"
+    },
+    {
+      "code_point": "09B2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09B6",
+      "code_point_end": "09B9",
+      "property": "N"
+    },
+    {
+      "code_point": "09BC",
+      "property": "N"
+    },
+    {
+      "code_point": "09BD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09BE",
+      "code_point_end": "09C0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09C1",
+      "code_point_end": "09C4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09C7",
+      "code_point_end": "09C8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09CB",
+      "code_point_end": "09CC",
+      "property": "N"
+    },
+    {
+      "code_point": "09CD",
+      "property": "N"
+    },
+    {
+      "code_point": "09CE",
+      "property": "N"
+    },
+    {
+      "code_point": "09D7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09DC",
+      "code_point_end": "09DD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09DF",
+      "code_point_end": "09E1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09E2",
+      "code_point_end": "09E3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09E6",
+      "code_point_end": "09EF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09F0",
+      "code_point_end": "09F1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09F2",
+      "code_point_end": "09F3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "09F4",
+      "code_point_end": "09F9",
+      "property": "N"
+    },
+    {
+      "code_point": "09FA",
+      "property": "N"
+    },
+    {
+      "code_point": "09FB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A01",
+      "code_point_end": "0A02",
+      "property": "N"
+    },
+    {
+      "code_point": "0A03",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A05",
+      "code_point_end": "0A0A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A0F",
+      "code_point_end": "0A10",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A13",
+      "code_point_end": "0A28",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A2A",
+      "code_point_end": "0A30",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A32",
+      "code_point_end": "0A33",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A35",
+      "code_point_end": "0A36",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A38",
+      "code_point_end": "0A39",
+      "property": "N"
+    },
+    {
+      "code_point": "0A3C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A3E",
+      "code_point_end": "0A40",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A41",
+      "code_point_end": "0A42",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A47",
+      "code_point_end": "0A48",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A4B",
+      "code_point_end": "0A4D",
+      "property": "N"
+    },
+    {
+      "code_point": "0A51",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A59",
+      "code_point_end": "0A5C",
+      "property": "N"
+    },
+    {
+      "code_point": "0A5E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A66",
+      "code_point_end": "0A6F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A70",
+      "code_point_end": "0A71",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A72",
+      "code_point_end": "0A74",
+      "property": "N"
+    },
+    {
+      "code_point": "0A75",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A81",
+      "code_point_end": "0A82",
+      "property": "N"
+    },
+    {
+      "code_point": "0A83",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A85",
+      "code_point_end": "0A8D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A8F",
+      "code_point_end": "0A91",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0A93",
+      "code_point_end": "0AA8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0AAA",
+      "code_point_end": "0AB0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0AB2",
+      "code_point_end": "0AB3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0AB5",
+      "code_point_end": "0AB9",
+      "property": "N"
+    },
+    {
+      "code_point": "0ABC",
+      "property": "N"
+    },
+    {
+      "code_point": "0ABD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0ABE",
+      "code_point_end": "0AC0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0AC1",
+      "code_point_end": "0AC5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0AC7",
+      "code_point_end": "0AC8",
+      "property": "N"
+    },
+    {
+      "code_point": "0AC9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0ACB",
+      "code_point_end": "0ACC",
+      "property": "N"
+    },
+    {
+      "code_point": "0ACD",
+      "property": "N"
+    },
+    {
+      "code_point": "0AD0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0AE0",
+      "code_point_end": "0AE1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0AE2",
+      "code_point_end": "0AE3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0AE6",
+      "code_point_end": "0AEF",
+      "property": "N"
+    },
+    {
+      "code_point": "0AF0",
+      "property": "N"
+    },
+    {
+      "code_point": "0AF1",
+      "property": "N"
+    },
+    {
+      "code_point": "0AF9",
+      "property": "N"
+    },
+    {
+      "code_point": "0B01",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B02",
+      "code_point_end": "0B03",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B05",
+      "code_point_end": "0B0C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B0F",
+      "code_point_end": "0B10",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B13",
+      "code_point_end": "0B28",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B2A",
+      "code_point_end": "0B30",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B32",
+      "code_point_end": "0B33",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B35",
+      "code_point_end": "0B39",
+      "property": "N"
+    },
+    {
+      "code_point": "0B3C",
+      "property": "N"
+    },
+    {
+      "code_point": "0B3D",
+      "property": "N"
+    },
+    {
+      "code_point": "0B3E",
+      "property": "N"
+    },
+    {
+      "code_point": "0B3F",
+      "property": "N"
+    },
+    {
+      "code_point": "0B40",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B41",
+      "code_point_end": "0B44",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B47",
+      "code_point_end": "0B48",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B4B",
+      "code_point_end": "0B4C",
+      "property": "N"
+    },
+    {
+      "code_point": "0B4D",
+      "property": "N"
+    },
+    {
+      "code_point": "0B56",
+      "property": "N"
+    },
+    {
+      "code_point": "0B57",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B5C",
+      "code_point_end": "0B5D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B5F",
+      "code_point_end": "0B61",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B62",
+      "code_point_end": "0B63",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B66",
+      "code_point_end": "0B6F",
+      "property": "N"
+    },
+    {
+      "code_point": "0B70",
+      "property": "N"
+    },
+    {
+      "code_point": "0B71",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B72",
+      "code_point_end": "0B77",
+      "property": "N"
+    },
+    {
+      "code_point": "0B82",
+      "property": "N"
+    },
+    {
+      "code_point": "0B83",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B85",
+      "code_point_end": "0B8A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B8E",
+      "code_point_end": "0B90",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B92",
+      "code_point_end": "0B95",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B99",
+      "code_point_end": "0B9A",
+      "property": "N"
+    },
+    {
+      "code_point": "0B9C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0B9E",
+      "code_point_end": "0B9F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BA3",
+      "code_point_end": "0BA4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BA8",
+      "code_point_end": "0BAA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BAE",
+      "code_point_end": "0BB9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BBE",
+      "code_point_end": "0BBF",
+      "property": "N"
+    },
+    {
+      "code_point": "0BC0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BC1",
+      "code_point_end": "0BC2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BC6",
+      "code_point_end": "0BC8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BCA",
+      "code_point_end": "0BCC",
+      "property": "N"
+    },
+    {
+      "code_point": "0BCD",
+      "property": "N"
+    },
+    {
+      "code_point": "0BD0",
+      "property": "N"
+    },
+    {
+      "code_point": "0BD7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BE6",
+      "code_point_end": "0BEF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BF0",
+      "code_point_end": "0BF2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0BF3",
+      "code_point_end": "0BF8",
+      "property": "N"
+    },
+    {
+      "code_point": "0BF9",
+      "property": "N"
+    },
+    {
+      "code_point": "0BFA",
+      "property": "N"
+    },
+    {
+      "code_point": "0C00",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C01",
+      "code_point_end": "0C03",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C05",
+      "code_point_end": "0C0C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C0E",
+      "code_point_end": "0C10",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C12",
+      "code_point_end": "0C28",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C2A",
+      "code_point_end": "0C39",
+      "property": "N"
+    },
+    {
+      "code_point": "0C3D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C3E",
+      "code_point_end": "0C40",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C41",
+      "code_point_end": "0C44",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C46",
+      "code_point_end": "0C48",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C4A",
+      "code_point_end": "0C4D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C55",
+      "code_point_end": "0C56",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C58",
+      "code_point_end": "0C5A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C60",
+      "code_point_end": "0C61",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C62",
+      "code_point_end": "0C63",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C66",
+      "code_point_end": "0C6F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C78",
+      "code_point_end": "0C7E",
+      "property": "N"
+    },
+    {
+      "code_point": "0C7F",
+      "property": "N"
+    },
+    {
+      "code_point": "0C81",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C82",
+      "code_point_end": "0C83",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C85",
+      "code_point_end": "0C8C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C8E",
+      "code_point_end": "0C90",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0C92",
+      "code_point_end": "0CA8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CAA",
+      "code_point_end": "0CB3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CB5",
+      "code_point_end": "0CB9",
+      "property": "N"
+    },
+    {
+      "code_point": "0CBC",
+      "property": "N"
+    },
+    {
+      "code_point": "0CBD",
+      "property": "N"
+    },
+    {
+      "code_point": "0CBE",
+      "property": "N"
+    },
+    {
+      "code_point": "0CBF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CC0",
+      "code_point_end": "0CC4",
+      "property": "N"
+    },
+    {
+      "code_point": "0CC6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CC7",
+      "code_point_end": "0CC8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CCA",
+      "code_point_end": "0CCB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CCC",
+      "code_point_end": "0CCD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CD5",
+      "code_point_end": "0CD6",
+      "property": "N"
+    },
+    {
+      "code_point": "0CDE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CE0",
+      "code_point_end": "0CE1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CE2",
+      "code_point_end": "0CE3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CE6",
+      "code_point_end": "0CEF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0CF1",
+      "code_point_end": "0CF2",
+      "property": "N"
+    },
+    {
+      "code_point": "0D01",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D02",
+      "code_point_end": "0D03",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D05",
+      "code_point_end": "0D0C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D0E",
+      "code_point_end": "0D10",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D12",
+      "code_point_end": "0D3A",
+      "property": "N"
+    },
+    {
+      "code_point": "0D3D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D3E",
+      "code_point_end": "0D40",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D41",
+      "code_point_end": "0D44",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D46",
+      "code_point_end": "0D48",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D4A",
+      "code_point_end": "0D4C",
+      "property": "N"
+    },
+    {
+      "code_point": "0D4D",
+      "property": "N"
+    },
+    {
+      "code_point": "0D4E",
+      "property": "N"
+    },
+    {
+      "code_point": "0D57",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D5F",
+      "code_point_end": "0D61",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D62",
+      "code_point_end": "0D63",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D66",
+      "code_point_end": "0D6F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D70",
+      "code_point_end": "0D75",
+      "property": "N"
+    },
+    {
+      "code_point": "0D79",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D7A",
+      "code_point_end": "0D7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D82",
+      "code_point_end": "0D83",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D85",
+      "code_point_end": "0D96",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0D9A",
+      "code_point_end": "0DB1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0DB3",
+      "code_point_end": "0DBB",
+      "property": "N"
+    },
+    {
+      "code_point": "0DBD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0DC0",
+      "code_point_end": "0DC6",
+      "property": "N"
+    },
+    {
+      "code_point": "0DCA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0DCF",
+      "code_point_end": "0DD1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0DD2",
+      "code_point_end": "0DD4",
+      "property": "N"
+    },
+    {
+      "code_point": "0DD6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0DD8",
+      "code_point_end": "0DDF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0DE6",
+      "code_point_end": "0DEF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0DF2",
+      "code_point_end": "0DF3",
+      "property": "N"
+    },
+    {
+      "code_point": "0DF4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E01",
+      "code_point_end": "0E30",
+      "property": "N"
+    },
+    {
+      "code_point": "0E31",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E32",
+      "code_point_end": "0E33",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E34",
+      "code_point_end": "0E3A",
+      "property": "N"
+    },
+    {
+      "code_point": "0E3F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E40",
+      "code_point_end": "0E45",
+      "property": "N"
+    },
+    {
+      "code_point": "0E46",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E47",
+      "code_point_end": "0E4E",
+      "property": "N"
+    },
+    {
+      "code_point": "0E4F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E50",
+      "code_point_end": "0E59",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E5A",
+      "code_point_end": "0E5B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E81",
+      "code_point_end": "0E82",
+      "property": "N"
+    },
+    {
+      "code_point": "0E84",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E87",
+      "code_point_end": "0E88",
+      "property": "N"
+    },
+    {
+      "code_point": "0E8A",
+      "property": "N"
+    },
+    {
+      "code_point": "0E8D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E94",
+      "code_point_end": "0E97",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0E99",
+      "code_point_end": "0E9F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0EA1",
+      "code_point_end": "0EA3",
+      "property": "N"
+    },
+    {
+      "code_point": "0EA5",
+      "property": "N"
+    },
+    {
+      "code_point": "0EA7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0EAA",
+      "code_point_end": "0EAB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0EAD",
+      "code_point_end": "0EB0",
+      "property": "N"
+    },
+    {
+      "code_point": "0EB1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0EB2",
+      "code_point_end": "0EB3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0EB4",
+      "code_point_end": "0EB9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0EBB",
+      "code_point_end": "0EBC",
+      "property": "N"
+    },
+    {
+      "code_point": "0EBD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0EC0",
+      "code_point_end": "0EC4",
+      "property": "N"
+    },
+    {
+      "code_point": "0EC6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0EC8",
+      "code_point_end": "0ECD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0ED0",
+      "code_point_end": "0ED9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0EDC",
+      "code_point_end": "0EDF",
+      "property": "N"
+    },
+    {
+      "code_point": "0F00",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F01",
+      "code_point_end": "0F03",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F04",
+      "code_point_end": "0F12",
+      "property": "N"
+    },
+    {
+      "code_point": "0F13",
+      "property": "N"
+    },
+    {
+      "code_point": "0F14",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F15",
+      "code_point_end": "0F17",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F18",
+      "code_point_end": "0F19",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F1A",
+      "code_point_end": "0F1F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F20",
+      "code_point_end": "0F29",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F2A",
+      "code_point_end": "0F33",
+      "property": "N"
+    },
+    {
+      "code_point": "0F34",
+      "property": "N"
+    },
+    {
+      "code_point": "0F35",
+      "property": "N"
+    },
+    {
+      "code_point": "0F36",
+      "property": "N"
+    },
+    {
+      "code_point": "0F37",
+      "property": "N"
+    },
+    {
+      "code_point": "0F38",
+      "property": "N"
+    },
+    {
+      "code_point": "0F39",
+      "property": "N"
+    },
+    {
+      "code_point": "0F3A",
+      "property": "N"
+    },
+    {
+      "code_point": "0F3B",
+      "property": "N"
+    },
+    {
+      "code_point": "0F3C",
+      "property": "N"
+    },
+    {
+      "code_point": "0F3D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F3E",
+      "code_point_end": "0F3F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F40",
+      "code_point_end": "0F47",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F49",
+      "code_point_end": "0F6C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F71",
+      "code_point_end": "0F7E",
+      "property": "N"
+    },
+    {
+      "code_point": "0F7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F80",
+      "code_point_end": "0F84",
+      "property": "N"
+    },
+    {
+      "code_point": "0F85",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F86",
+      "code_point_end": "0F87",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F88",
+      "code_point_end": "0F8C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F8D",
+      "code_point_end": "0F97",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0F99",
+      "code_point_end": "0FBC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0FBE",
+      "code_point_end": "0FC5",
+      "property": "N"
+    },
+    {
+      "code_point": "0FC6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0FC7",
+      "code_point_end": "0FCC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0FCE",
+      "code_point_end": "0FCF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0FD0",
+      "code_point_end": "0FD4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0FD5",
+      "code_point_end": "0FD8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "0FD9",
+      "code_point_end": "0FDA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1000",
+      "code_point_end": "102A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "102B",
+      "code_point_end": "102C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "102D",
+      "code_point_end": "1030",
+      "property": "N"
+    },
+    {
+      "code_point": "1031",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1032",
+      "code_point_end": "1037",
+      "property": "N"
+    },
+    {
+      "code_point": "1038",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1039",
+      "code_point_end": "103A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "103B",
+      "code_point_end": "103C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "103D",
+      "code_point_end": "103E",
+      "property": "N"
+    },
+    {
+      "code_point": "103F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1040",
+      "code_point_end": "1049",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "104A",
+      "code_point_end": "104F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1050",
+      "code_point_end": "1055",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1056",
+      "code_point_end": "1057",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1058",
+      "code_point_end": "1059",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "105A",
+      "code_point_end": "105D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "105E",
+      "code_point_end": "1060",
+      "property": "N"
+    },
+    {
+      "code_point": "1061",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1062",
+      "code_point_end": "1064",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1065",
+      "code_point_end": "1066",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1067",
+      "code_point_end": "106D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "106E",
+      "code_point_end": "1070",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1071",
+      "code_point_end": "1074",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1075",
+      "code_point_end": "1081",
+      "property": "N"
+    },
+    {
+      "code_point": "1082",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1083",
+      "code_point_end": "1084",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1085",
+      "code_point_end": "1086",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1087",
+      "code_point_end": "108C",
+      "property": "N"
+    },
+    {
+      "code_point": "108D",
+      "property": "N"
+    },
+    {
+      "code_point": "108E",
+      "property": "N"
+    },
+    {
+      "code_point": "108F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1090",
+      "code_point_end": "1099",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "109A",
+      "code_point_end": "109C",
+      "property": "N"
+    },
+    {
+      "code_point": "109D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "109E",
+      "code_point_end": "109F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A0",
+      "code_point_end": "10C5",
+      "property": "N"
+    },
+    {
+      "code_point": "10C7",
+      "property": "N"
+    },
+    {
+      "code_point": "10CD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10D0",
+      "code_point_end": "10FA",
+      "property": "N"
+    },
+    {
+      "code_point": "10FB",
+      "property": "N"
+    },
+    {
+      "code_point": "10FC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10FD",
+      "code_point_end": "10FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1100",
+      "code_point_end": "115F",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "1160",
+      "code_point_end": "11FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1200",
+      "code_point_end": "1248",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "124A",
+      "code_point_end": "124D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1250",
+      "code_point_end": "1256",
+      "property": "N"
+    },
+    {
+      "code_point": "1258",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "125A",
+      "code_point_end": "125D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1260",
+      "code_point_end": "1288",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "128A",
+      "code_point_end": "128D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1290",
+      "code_point_end": "12B0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "12B2",
+      "code_point_end": "12B5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "12B8",
+      "code_point_end": "12BE",
+      "property": "N"
+    },
+    {
+      "code_point": "12C0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "12C2",
+      "code_point_end": "12C5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "12C8",
+      "code_point_end": "12D6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "12D8",
+      "code_point_end": "1310",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1312",
+      "code_point_end": "1315",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1318",
+      "code_point_end": "135A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "135D",
+      "code_point_end": "135F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1360",
+      "code_point_end": "1368",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1369",
+      "code_point_end": "137C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1380",
+      "code_point_end": "138F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1390",
+      "code_point_end": "1399",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "13A0",
+      "code_point_end": "13F5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "13F8",
+      "code_point_end": "13FD",
+      "property": "N"
+    },
+    {
+      "code_point": "1400",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1401",
+      "code_point_end": "166C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "166D",
+      "code_point_end": "166E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "166F",
+      "code_point_end": "167F",
+      "property": "N"
+    },
+    {
+      "code_point": "1680",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1681",
+      "code_point_end": "169A",
+      "property": "N"
+    },
+    {
+      "code_point": "169B",
+      "property": "N"
+    },
+    {
+      "code_point": "169C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16A0",
+      "code_point_end": "16EA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16EB",
+      "code_point_end": "16ED",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16EE",
+      "code_point_end": "16F0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16F1",
+      "code_point_end": "16F8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1700",
+      "code_point_end": "170C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "170E",
+      "code_point_end": "1711",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1712",
+      "code_point_end": "1714",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1720",
+      "code_point_end": "1731",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1732",
+      "code_point_end": "1734",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1735",
+      "code_point_end": "1736",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1740",
+      "code_point_end": "1751",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1752",
+      "code_point_end": "1753",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1760",
+      "code_point_end": "176C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "176E",
+      "code_point_end": "1770",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1772",
+      "code_point_end": "1773",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1780",
+      "code_point_end": "17B3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "17B4",
+      "code_point_end": "17B5",
+      "property": "N"
+    },
+    {
+      "code_point": "17B6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "17B7",
+      "code_point_end": "17BD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "17BE",
+      "code_point_end": "17C5",
+      "property": "N"
+    },
+    {
+      "code_point": "17C6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "17C7",
+      "code_point_end": "17C8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "17C9",
+      "code_point_end": "17D3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "17D4",
+      "code_point_end": "17D6",
+      "property": "N"
+    },
+    {
+      "code_point": "17D7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "17D8",
+      "code_point_end": "17DA",
+      "property": "N"
+    },
+    {
+      "code_point": "17DB",
+      "property": "N"
+    },
+    {
+      "code_point": "17DC",
+      "property": "N"
+    },
+    {
+      "code_point": "17DD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "17E0",
+      "code_point_end": "17E9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "17F0",
+      "code_point_end": "17F9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1800",
+      "code_point_end": "1805",
+      "property": "N"
+    },
+    {
+      "code_point": "1806",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1807",
+      "code_point_end": "180A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "180B",
+      "code_point_end": "180D",
+      "property": "N"
+    },
+    {
+      "code_point": "180E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1810",
+      "code_point_end": "1819",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1820",
+      "code_point_end": "1842",
+      "property": "N"
+    },
+    {
+      "code_point": "1843",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1844",
+      "code_point_end": "1877",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1880",
+      "code_point_end": "18A8",
+      "property": "N"
+    },
+    {
+      "code_point": "18A9",
+      "property": "N"
+    },
+    {
+      "code_point": "18AA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "18B0",
+      "code_point_end": "18F5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1900",
+      "code_point_end": "191E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1920",
+      "code_point_end": "1922",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1923",
+      "code_point_end": "1926",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1927",
+      "code_point_end": "1928",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1929",
+      "code_point_end": "192B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1930",
+      "code_point_end": "1931",
+      "property": "N"
+    },
+    {
+      "code_point": "1932",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1933",
+      "code_point_end": "1938",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1939",
+      "code_point_end": "193B",
+      "property": "N"
+    },
+    {
+      "code_point": "1940",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1944",
+      "code_point_end": "1945",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1946",
+      "code_point_end": "194F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1950",
+      "code_point_end": "196D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1970",
+      "code_point_end": "1974",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1980",
+      "code_point_end": "19AB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "19B0",
+      "code_point_end": "19C9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "19D0",
+      "code_point_end": "19D9",
+      "property": "N"
+    },
+    {
+      "code_point": "19DA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "19DE",
+      "code_point_end": "19DF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "19E0",
+      "code_point_end": "19FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A00",
+      "code_point_end": "1A16",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A17",
+      "code_point_end": "1A18",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A19",
+      "code_point_end": "1A1A",
+      "property": "N"
+    },
+    {
+      "code_point": "1A1B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A1E",
+      "code_point_end": "1A1F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A20",
+      "code_point_end": "1A54",
+      "property": "N"
+    },
+    {
+      "code_point": "1A55",
+      "property": "N"
+    },
+    {
+      "code_point": "1A56",
+      "property": "N"
+    },
+    {
+      "code_point": "1A57",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A58",
+      "code_point_end": "1A5E",
+      "property": "N"
+    },
+    {
+      "code_point": "1A60",
+      "property": "N"
+    },
+    {
+      "code_point": "1A61",
+      "property": "N"
+    },
+    {
+      "code_point": "1A62",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A63",
+      "code_point_end": "1A64",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A65",
+      "code_point_end": "1A6C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A6D",
+      "code_point_end": "1A72",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A73",
+      "code_point_end": "1A7C",
+      "property": "N"
+    },
+    {
+      "code_point": "1A7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A80",
+      "code_point_end": "1A89",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1A90",
+      "code_point_end": "1A99",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1AA0",
+      "code_point_end": "1AA6",
+      "property": "N"
+    },
+    {
+      "code_point": "1AA7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1AA8",
+      "code_point_end": "1AAD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1AB0",
+      "code_point_end": "1ABD",
+      "property": "N"
+    },
+    {
+      "code_point": "1ABE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B00",
+      "code_point_end": "1B03",
+      "property": "N"
+    },
+    {
+      "code_point": "1B04",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B05",
+      "code_point_end": "1B33",
+      "property": "N"
+    },
+    {
+      "code_point": "1B34",
+      "property": "N"
+    },
+    {
+      "code_point": "1B35",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B36",
+      "code_point_end": "1B3A",
+      "property": "N"
+    },
+    {
+      "code_point": "1B3B",
+      "property": "N"
+    },
+    {
+      "code_point": "1B3C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B3D",
+      "code_point_end": "1B41",
+      "property": "N"
+    },
+    {
+      "code_point": "1B42",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B43",
+      "code_point_end": "1B44",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B45",
+      "code_point_end": "1B4B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B50",
+      "code_point_end": "1B59",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B5A",
+      "code_point_end": "1B60",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B61",
+      "code_point_end": "1B6A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B6B",
+      "code_point_end": "1B73",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B74",
+      "code_point_end": "1B7C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B80",
+      "code_point_end": "1B81",
+      "property": "N"
+    },
+    {
+      "code_point": "1B82",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B83",
+      "code_point_end": "1BA0",
+      "property": "N"
+    },
+    {
+      "code_point": "1BA1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BA2",
+      "code_point_end": "1BA5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BA6",
+      "code_point_end": "1BA7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BA8",
+      "code_point_end": "1BA9",
+      "property": "N"
+    },
+    {
+      "code_point": "1BAA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BAB",
+      "code_point_end": "1BAD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BAE",
+      "code_point_end": "1BAF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BB0",
+      "code_point_end": "1BB9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BBA",
+      "code_point_end": "1BBF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BC0",
+      "code_point_end": "1BE5",
+      "property": "N"
+    },
+    {
+      "code_point": "1BE6",
+      "property": "N"
+    },
+    {
+      "code_point": "1BE7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BE8",
+      "code_point_end": "1BE9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BEA",
+      "code_point_end": "1BEC",
+      "property": "N"
+    },
+    {
+      "code_point": "1BED",
+      "property": "N"
+    },
+    {
+      "code_point": "1BEE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BEF",
+      "code_point_end": "1BF1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BF2",
+      "code_point_end": "1BF3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BFC",
+      "code_point_end": "1BFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C00",
+      "code_point_end": "1C23",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C24",
+      "code_point_end": "1C2B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C2C",
+      "code_point_end": "1C33",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C34",
+      "code_point_end": "1C35",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C36",
+      "code_point_end": "1C37",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C3B",
+      "code_point_end": "1C3F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C40",
+      "code_point_end": "1C49",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C4D",
+      "code_point_end": "1C4F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C50",
+      "code_point_end": "1C59",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C5A",
+      "code_point_end": "1C77",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C78",
+      "code_point_end": "1C7D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1C7E",
+      "code_point_end": "1C7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1CC0",
+      "code_point_end": "1CC7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1CD0",
+      "code_point_end": "1CD2",
+      "property": "N"
+    },
+    {
+      "code_point": "1CD3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1CD4",
+      "code_point_end": "1CE0",
+      "property": "N"
+    },
+    {
+      "code_point": "1CE1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1CE2",
+      "code_point_end": "1CE8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1CE9",
+      "code_point_end": "1CEC",
+      "property": "N"
+    },
+    {
+      "code_point": "1CED",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1CEE",
+      "code_point_end": "1CF1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1CF2",
+      "code_point_end": "1CF3",
+      "property": "N"
+    },
+    {
+      "code_point": "1CF4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1CF5",
+      "code_point_end": "1CF6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1CF8",
+      "code_point_end": "1CF9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D00",
+      "code_point_end": "1D2B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D2C",
+      "code_point_end": "1D6A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D6B",
+      "code_point_end": "1D77",
+      "property": "N"
+    },
+    {
+      "code_point": "1D78",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D79",
+      "code_point_end": "1D7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D80",
+      "code_point_end": "1D9A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D9B",
+      "code_point_end": "1DBF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DC0",
+      "code_point_end": "1DF5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DFC",
+      "code_point_end": "1DFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1E00",
+      "code_point_end": "1EFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F00",
+      "code_point_end": "1F15",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F18",
+      "code_point_end": "1F1D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F20",
+      "code_point_end": "1F45",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F48",
+      "code_point_end": "1F4D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F50",
+      "code_point_end": "1F57",
+      "property": "N"
+    },
+    {
+      "code_point": "1F59",
+      "property": "N"
+    },
+    {
+      "code_point": "1F5B",
+      "property": "N"
+    },
+    {
+      "code_point": "1F5D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F5F",
+      "code_point_end": "1F7D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F80",
+      "code_point_end": "1FB4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FB6",
+      "code_point_end": "1FBC",
+      "property": "N"
+    },
+    {
+      "code_point": "1FBD",
+      "property": "N"
+    },
+    {
+      "code_point": "1FBE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FBF",
+      "code_point_end": "1FC1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FC2",
+      "code_point_end": "1FC4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FC6",
+      "code_point_end": "1FCC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FCD",
+      "code_point_end": "1FCF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FD0",
+      "code_point_end": "1FD3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FD6",
+      "code_point_end": "1FDB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FDD",
+      "code_point_end": "1FDF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FE0",
+      "code_point_end": "1FEC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FED",
+      "code_point_end": "1FEF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FF2",
+      "code_point_end": "1FF4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FF6",
+      "code_point_end": "1FFC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1FFD",
+      "code_point_end": "1FFE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2000",
+      "code_point_end": "200A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "200B",
+      "code_point_end": "200F",
+      "property": "N"
+    },
+    {
+      "code_point": "2010",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2011",
+      "code_point_end": "2012",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2013",
+      "code_point_end": "2015",
+      "property": "A"
+    },
+    {
+      "code_point": "2016",
+      "property": "A"
+    },
+    {
+      "code_point": "2017",
+      "property": "N"
+    },
+    {
+      "code_point": "2018",
+      "property": "A"
+    },
+    {
+      "code_point": "2019",
+      "property": "A"
+    },
+    {
+      "code_point": "201A",
+      "property": "N"
+    },
+    {
+      "code_point": "201B",
+      "property": "N"
+    },
+    {
+      "code_point": "201C",
+      "property": "A"
+    },
+    {
+      "code_point": "201D",
+      "property": "A"
+    },
+    {
+      "code_point": "201E",
+      "property": "N"
+    },
+    {
+      "code_point": "201F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2020",
+      "code_point_end": "2022",
+      "property": "A"
+    },
+    {
+      "code_point": "2023",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2024",
+      "code_point_end": "2027",
+      "property": "A"
+    },
+    {
+      "code_point": "2028",
+      "property": "N"
+    },
+    {
+      "code_point": "2029",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "202A",
+      "code_point_end": "202E",
+      "property": "N"
+    },
+    {
+      "code_point": "202F",
+      "property": "N"
+    },
+    {
+      "code_point": "2030",
+      "property": "A"
+    },
+    {
+      "code_point": "2031",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2032",
+      "code_point_end": "2033",
+      "property": "A"
+    },
+    {
+      "code_point": "2034",
+      "property": "N"
+    },
+    {
+      "code_point": "2035",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2036",
+      "code_point_end": "2038",
+      "property": "N"
+    },
+    {
+      "code_point": "2039",
+      "property": "N"
+    },
+    {
+      "code_point": "203A",
+      "property": "N"
+    },
+    {
+      "code_point": "203B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "203C",
+      "code_point_end": "203D",
+      "property": "N"
+    },
+    {
+      "code_point": "203E",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "203F",
+      "code_point_end": "2040",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2041",
+      "code_point_end": "2043",
+      "property": "N"
+    },
+    {
+      "code_point": "2044",
+      "property": "N"
+    },
+    {
+      "code_point": "2045",
+      "property": "N"
+    },
+    {
+      "code_point": "2046",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2047",
+      "code_point_end": "2051",
+      "property": "N"
+    },
+    {
+      "code_point": "2052",
+      "property": "N"
+    },
+    {
+      "code_point": "2053",
+      "property": "N"
+    },
+    {
+      "code_point": "2054",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2055",
+      "code_point_end": "205E",
+      "property": "N"
+    },
+    {
+      "code_point": "205F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2060",
+      "code_point_end": "2064",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2066",
+      "code_point_end": "206F",
+      "property": "N"
+    },
+    {
+      "code_point": "2070",
+      "property": "N"
+    },
+    {
+      "code_point": "2071",
+      "property": "N"
+    },
+    {
+      "code_point": "2074",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2075",
+      "code_point_end": "2079",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "207A",
+      "code_point_end": "207C",
+      "property": "N"
+    },
+    {
+      "code_point": "207D",
+      "property": "N"
+    },
+    {
+      "code_point": "207E",
+      "property": "N"
+    },
+    {
+      "code_point": "207F",
+      "property": "A"
+    },
+    {
+      "code_point": "2080",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2081",
+      "code_point_end": "2084",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2085",
+      "code_point_end": "2089",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "208A",
+      "code_point_end": "208C",
+      "property": "N"
+    },
+    {
+      "code_point": "208D",
+      "property": "N"
+    },
+    {
+      "code_point": "208E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2090",
+      "code_point_end": "209C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "20A0",
+      "code_point_end": "20A8",
+      "property": "N"
+    },
+    {
+      "code_point": "20A9",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "20AA",
+      "code_point_end": "20AB",
+      "property": "N"
+    },
+    {
+      "code_point": "20AC",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "20AD",
+      "code_point_end": "20BE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "20D0",
+      "code_point_end": "20DC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "20DD",
+      "code_point_end": "20E0",
+      "property": "N"
+    },
+    {
+      "code_point": "20E1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "20E2",
+      "code_point_end": "20E4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "20E5",
+      "code_point_end": "20F0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2100",
+      "code_point_end": "2101",
+      "property": "N"
+    },
+    {
+      "code_point": "2102",
+      "property": "N"
+    },
+    {
+      "code_point": "2103",
+      "property": "A"
+    },
+    {
+      "code_point": "2104",
+      "property": "N"
+    },
+    {
+      "code_point": "2105",
+      "property": "A"
+    },
+    {
+      "code_point": "2106",
+      "property": "N"
+    },
+    {
+      "code_point": "2107",
+      "property": "N"
+    },
+    {
+      "code_point": "2108",
+      "property": "N"
+    },
+    {
+      "code_point": "2109",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "210A",
+      "code_point_end": "2112",
+      "property": "N"
+    },
+    {
+      "code_point": "2113",
+      "property": "A"
+    },
+    {
+      "code_point": "2114",
+      "property": "N"
+    },
+    {
+      "code_point": "2115",
+      "property": "N"
+    },
+    {
+      "code_point": "2116",
+      "property": "A"
+    },
+    {
+      "code_point": "2117",
+      "property": "N"
+    },
+    {
+      "code_point": "2118",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2119",
+      "code_point_end": "211D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "211E",
+      "code_point_end": "2120",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2121",
+      "code_point_end": "2122",
+      "property": "A"
+    },
+    {
+      "code_point": "2123",
+      "property": "N"
+    },
+    {
+      "code_point": "2124",
+      "property": "N"
+    },
+    {
+      "code_point": "2125",
+      "property": "N"
+    },
+    {
+      "code_point": "2126",
+      "property": "A"
+    },
+    {
+      "code_point": "2127",
+      "property": "N"
+    },
+    {
+      "code_point": "2128",
+      "property": "N"
+    },
+    {
+      "code_point": "2129",
+      "property": "N"
+    },
+    {
+      "code_point": "212A",
+      "property": "N"
+    },
+    {
+      "code_point": "212B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "212C",
+      "code_point_end": "212D",
+      "property": "N"
+    },
+    {
+      "code_point": "212E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "212F",
+      "code_point_end": "2134",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2135",
+      "code_point_end": "2138",
+      "property": "N"
+    },
+    {
+      "code_point": "2139",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "213A",
+      "code_point_end": "213B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "213C",
+      "code_point_end": "213F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2140",
+      "code_point_end": "2144",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2145",
+      "code_point_end": "2149",
+      "property": "N"
+    },
+    {
+      "code_point": "214A",
+      "property": "N"
+    },
+    {
+      "code_point": "214B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "214C",
+      "code_point_end": "214D",
+      "property": "N"
+    },
+    {
+      "code_point": "214E",
+      "property": "N"
+    },
+    {
+      "code_point": "214F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2150",
+      "code_point_end": "2152",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2153",
+      "code_point_end": "2154",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2155",
+      "code_point_end": "215A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "215B",
+      "code_point_end": "215E",
+      "property": "A"
+    },
+    {
+      "code_point": "215F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2160",
+      "code_point_end": "216B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "216C",
+      "code_point_end": "216F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2170",
+      "code_point_end": "2179",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "217A",
+      "code_point_end": "2182",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2183",
+      "code_point_end": "2184",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2185",
+      "code_point_end": "2188",
+      "property": "N"
+    },
+    {
+      "code_point": "2189",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "218A",
+      "code_point_end": "218B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2190",
+      "code_point_end": "2194",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2195",
+      "code_point_end": "2199",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "219A",
+      "code_point_end": "219B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "219C",
+      "code_point_end": "219F",
+      "property": "N"
+    },
+    {
+      "code_point": "21A0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "21A1",
+      "code_point_end": "21A2",
+      "property": "N"
+    },
+    {
+      "code_point": "21A3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "21A4",
+      "code_point_end": "21A5",
+      "property": "N"
+    },
+    {
+      "code_point": "21A6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "21A7",
+      "code_point_end": "21AD",
+      "property": "N"
+    },
+    {
+      "code_point": "21AE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "21AF",
+      "code_point_end": "21B7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "21B8",
+      "code_point_end": "21B9",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "21BA",
+      "code_point_end": "21CD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "21CE",
+      "code_point_end": "21CF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "21D0",
+      "code_point_end": "21D1",
+      "property": "N"
+    },
+    {
+      "code_point": "21D2",
+      "property": "A"
+    },
+    {
+      "code_point": "21D3",
+      "property": "N"
+    },
+    {
+      "code_point": "21D4",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "21D5",
+      "code_point_end": "21E6",
+      "property": "N"
+    },
+    {
+      "code_point": "21E7",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "21E8",
+      "code_point_end": "21F3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "21F4",
+      "code_point_end": "21FF",
+      "property": "N"
+    },
+    {
+      "code_point": "2200",
+      "property": "A"
+    },
+    {
+      "code_point": "2201",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2202",
+      "code_point_end": "2203",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2204",
+      "code_point_end": "2206",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2207",
+      "code_point_end": "2208",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2209",
+      "code_point_end": "220A",
+      "property": "N"
+    },
+    {
+      "code_point": "220B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "220C",
+      "code_point_end": "220E",
+      "property": "N"
+    },
+    {
+      "code_point": "220F",
+      "property": "A"
+    },
+    {
+      "code_point": "2210",
+      "property": "N"
+    },
+    {
+      "code_point": "2211",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2212",
+      "code_point_end": "2214",
+      "property": "N"
+    },
+    {
+      "code_point": "2215",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2216",
+      "code_point_end": "2219",
+      "property": "N"
+    },
+    {
+      "code_point": "221A",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "221B",
+      "code_point_end": "221C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "221D",
+      "code_point_end": "2220",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2221",
+      "code_point_end": "2222",
+      "property": "N"
+    },
+    {
+      "code_point": "2223",
+      "property": "A"
+    },
+    {
+      "code_point": "2224",
+      "property": "N"
+    },
+    {
+      "code_point": "2225",
+      "property": "A"
+    },
+    {
+      "code_point": "2226",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2227",
+      "code_point_end": "222C",
+      "property": "A"
+    },
+    {
+      "code_point": "222D",
+      "property": "N"
+    },
+    {
+      "code_point": "222E",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "222F",
+      "code_point_end": "2233",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2234",
+      "code_point_end": "2237",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2238",
+      "code_point_end": "223B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "223C",
+      "code_point_end": "223D",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "223E",
+      "code_point_end": "2247",
+      "property": "N"
+    },
+    {
+      "code_point": "2248",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2249",
+      "code_point_end": "224B",
+      "property": "N"
+    },
+    {
+      "code_point": "224C",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "224D",
+      "code_point_end": "2251",
+      "property": "N"
+    },
+    {
+      "code_point": "2252",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2253",
+      "code_point_end": "225F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2260",
+      "code_point_end": "2261",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2262",
+      "code_point_end": "2263",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2264",
+      "code_point_end": "2267",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2268",
+      "code_point_end": "2269",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "226A",
+      "code_point_end": "226B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "226C",
+      "code_point_end": "226D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "226E",
+      "code_point_end": "226F",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2270",
+      "code_point_end": "2281",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2282",
+      "code_point_end": "2283",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2284",
+      "code_point_end": "2285",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2286",
+      "code_point_end": "2287",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2288",
+      "code_point_end": "2294",
+      "property": "N"
+    },
+    {
+      "code_point": "2295",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2296",
+      "code_point_end": "2298",
+      "property": "N"
+    },
+    {
+      "code_point": "2299",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "229A",
+      "code_point_end": "22A4",
+      "property": "N"
+    },
+    {
+      "code_point": "22A5",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "22A6",
+      "code_point_end": "22BE",
+      "property": "N"
+    },
+    {
+      "code_point": "22BF",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "22C0",
+      "code_point_end": "22FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2300",
+      "code_point_end": "2307",
+      "property": "N"
+    },
+    {
+      "code_point": "2308",
+      "property": "N"
+    },
+    {
+      "code_point": "2309",
+      "property": "N"
+    },
+    {
+      "code_point": "230A",
+      "property": "N"
+    },
+    {
+      "code_point": "230B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "230C",
+      "code_point_end": "2311",
+      "property": "N"
+    },
+    {
+      "code_point": "2312",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2313",
+      "code_point_end": "231F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2320",
+      "code_point_end": "2321",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2322",
+      "code_point_end": "2328",
+      "property": "N"
+    },
+    {
+      "code_point": "2329",
+      "property": "W"
+    },
+    {
+      "code_point": "232A",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "232B",
+      "code_point_end": "237B",
+      "property": "N"
+    },
+    {
+      "code_point": "237C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "237D",
+      "code_point_end": "239A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "239B",
+      "code_point_end": "23B3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "23B4",
+      "code_point_end": "23DB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "23DC",
+      "code_point_end": "23E1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "23E2",
+      "code_point_end": "23FA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2400",
+      "code_point_end": "2426",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2440",
+      "code_point_end": "244A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2460",
+      "code_point_end": "249B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "249C",
+      "code_point_end": "24E9",
+      "property": "A"
+    },
+    {
+      "code_point": "24EA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "24EB",
+      "code_point_end": "24FF",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2500",
+      "code_point_end": "254B",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "254C",
+      "code_point_end": "254F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2550",
+      "code_point_end": "2573",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2574",
+      "code_point_end": "257F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2580",
+      "code_point_end": "258F",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2590",
+      "code_point_end": "2591",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2592",
+      "code_point_end": "2595",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2596",
+      "code_point_end": "259F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "25A0",
+      "code_point_end": "25A1",
+      "property": "A"
+    },
+    {
+      "code_point": "25A2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "25A3",
+      "code_point_end": "25A9",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25AA",
+      "code_point_end": "25B1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "25B2",
+      "code_point_end": "25B3",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25B4",
+      "code_point_end": "25B5",
+      "property": "N"
+    },
+    {
+      "code_point": "25B6",
+      "property": "A"
+    },
+    {
+      "code_point": "25B7",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25B8",
+      "code_point_end": "25BB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "25BC",
+      "code_point_end": "25BD",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25BE",
+      "code_point_end": "25BF",
+      "property": "N"
+    },
+    {
+      "code_point": "25C0",
+      "property": "A"
+    },
+    {
+      "code_point": "25C1",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25C2",
+      "code_point_end": "25C5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "25C6",
+      "code_point_end": "25C8",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25C9",
+      "code_point_end": "25CA",
+      "property": "N"
+    },
+    {
+      "code_point": "25CB",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25CC",
+      "code_point_end": "25CD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "25CE",
+      "code_point_end": "25D1",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25D2",
+      "code_point_end": "25E1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "25E2",
+      "code_point_end": "25E5",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25E6",
+      "code_point_end": "25EE",
+      "property": "N"
+    },
+    {
+      "code_point": "25EF",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "25F0",
+      "code_point_end": "25F7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "25F8",
+      "code_point_end": "25FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2600",
+      "code_point_end": "2604",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2605",
+      "code_point_end": "2606",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2607",
+      "code_point_end": "2608",
+      "property": "N"
+    },
+    {
+      "code_point": "2609",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "260A",
+      "code_point_end": "260D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "260E",
+      "code_point_end": "260F",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2610",
+      "code_point_end": "2613",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2614",
+      "code_point_end": "2615",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2616",
+      "code_point_end": "261B",
+      "property": "N"
+    },
+    {
+      "code_point": "261C",
+      "property": "A"
+    },
+    {
+      "code_point": "261D",
+      "property": "N"
+    },
+    {
+      "code_point": "261E",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "261F",
+      "code_point_end": "263F",
+      "property": "N"
+    },
+    {
+      "code_point": "2640",
+      "property": "A"
+    },
+    {
+      "code_point": "2641",
+      "property": "N"
+    },
+    {
+      "code_point": "2642",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2643",
+      "code_point_end": "265F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2660",
+      "code_point_end": "2661",
+      "property": "A"
+    },
+    {
+      "code_point": "2662",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2663",
+      "code_point_end": "2665",
+      "property": "A"
+    },
+    {
+      "code_point": "2666",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2667",
+      "code_point_end": "266A",
+      "property": "A"
+    },
+    {
+      "code_point": "266B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "266C",
+      "code_point_end": "266D",
+      "property": "A"
+    },
+    {
+      "code_point": "266E",
+      "property": "N"
+    },
+    {
+      "code_point": "266F",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2670",
+      "code_point_end": "269D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "269E",
+      "code_point_end": "269F",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "26A0",
+      "code_point_end": "26BD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "26BE",
+      "code_point_end": "26BF",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "26C0",
+      "code_point_end": "26C3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "26C4",
+      "code_point_end": "26CD",
+      "property": "A"
+    },
+    {
+      "code_point": "26CE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "26CF",
+      "code_point_end": "26E1",
+      "property": "A"
+    },
+    {
+      "code_point": "26E2",
+      "property": "N"
+    },
+    {
+      "code_point": "26E3",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "26E4",
+      "code_point_end": "26E7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "26E8",
+      "code_point_end": "26FF",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2700",
+      "code_point_end": "273C",
+      "property": "N"
+    },
+    {
+      "code_point": "273D",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "273E",
+      "code_point_end": "2756",
+      "property": "N"
+    },
+    {
+      "code_point": "2757",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2758",
+      "code_point_end": "2767",
+      "property": "N"
+    },
+    {
+      "code_point": "2768",
+      "property": "N"
+    },
+    {
+      "code_point": "2769",
+      "property": "N"
+    },
+    {
+      "code_point": "276A",
+      "property": "N"
+    },
+    {
+      "code_point": "276B",
+      "property": "N"
+    },
+    {
+      "code_point": "276C",
+      "property": "N"
+    },
+    {
+      "code_point": "276D",
+      "property": "N"
+    },
+    {
+      "code_point": "276E",
+      "property": "N"
+    },
+    {
+      "code_point": "276F",
+      "property": "N"
+    },
+    {
+      "code_point": "2770",
+      "property": "N"
+    },
+    {
+      "code_point": "2771",
+      "property": "N"
+    },
+    {
+      "code_point": "2772",
+      "property": "N"
+    },
+    {
+      "code_point": "2773",
+      "property": "N"
+    },
+    {
+      "code_point": "2774",
+      "property": "N"
+    },
+    {
+      "code_point": "2775",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2776",
+      "code_point_end": "277F",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2780",
+      "code_point_end": "2793",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2794",
+      "code_point_end": "27BF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "27C0",
+      "code_point_end": "27C4",
+      "property": "N"
+    },
+    {
+      "code_point": "27C5",
+      "property": "N"
+    },
+    {
+      "code_point": "27C6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "27C7",
+      "code_point_end": "27E5",
+      "property": "N"
+    },
+    {
+      "code_point": "27E6",
+      "property": "Na"
+    },
+    {
+      "code_point": "27E7",
+      "property": "Na"
+    },
+    {
+      "code_point": "27E8",
+      "property": "Na"
+    },
+    {
+      "code_point": "27E9",
+      "property": "Na"
+    },
+    {
+      "code_point": "27EA",
+      "property": "Na"
+    },
+    {
+      "code_point": "27EB",
+      "property": "Na"
+    },
+    {
+      "code_point": "27EC",
+      "property": "Na"
+    },
+    {
+      "code_point": "27ED",
+      "property": "Na"
+    },
+    {
+      "code_point": "27EE",
+      "property": "N"
+    },
+    {
+      "code_point": "27EF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "27F0",
+      "code_point_end": "27FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2800",
+      "code_point_end": "28FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2900",
+      "code_point_end": "297F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2980",
+      "code_point_end": "2982",
+      "property": "N"
+    },
+    {
+      "code_point": "2983",
+      "property": "N"
+    },
+    {
+      "code_point": "2984",
+      "property": "N"
+    },
+    {
+      "code_point": "2985",
+      "property": "Na"
+    },
+    {
+      "code_point": "2986",
+      "property": "Na"
+    },
+    {
+      "code_point": "2987",
+      "property": "N"
+    },
+    {
+      "code_point": "2988",
+      "property": "N"
+    },
+    {
+      "code_point": "2989",
+      "property": "N"
+    },
+    {
+      "code_point": "298A",
+      "property": "N"
+    },
+    {
+      "code_point": "298B",
+      "property": "N"
+    },
+    {
+      "code_point": "298C",
+      "property": "N"
+    },
+    {
+      "code_point": "298D",
+      "property": "N"
+    },
+    {
+      "code_point": "298E",
+      "property": "N"
+    },
+    {
+      "code_point": "298F",
+      "property": "N"
+    },
+    {
+      "code_point": "2990",
+      "property": "N"
+    },
+    {
+      "code_point": "2991",
+      "property": "N"
+    },
+    {
+      "code_point": "2992",
+      "property": "N"
+    },
+    {
+      "code_point": "2993",
+      "property": "N"
+    },
+    {
+      "code_point": "2994",
+      "property": "N"
+    },
+    {
+      "code_point": "2995",
+      "property": "N"
+    },
+    {
+      "code_point": "2996",
+      "property": "N"
+    },
+    {
+      "code_point": "2997",
+      "property": "N"
+    },
+    {
+      "code_point": "2998",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2999",
+      "code_point_end": "29D7",
+      "property": "N"
+    },
+    {
+      "code_point": "29D8",
+      "property": "N"
+    },
+    {
+      "code_point": "29D9",
+      "property": "N"
+    },
+    {
+      "code_point": "29DA",
+      "property": "N"
+    },
+    {
+      "code_point": "29DB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "29DC",
+      "code_point_end": "29FB",
+      "property": "N"
+    },
+    {
+      "code_point": "29FC",
+      "property": "N"
+    },
+    {
+      "code_point": "29FD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "29FE",
+      "code_point_end": "29FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2A00",
+      "code_point_end": "2AFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2B00",
+      "code_point_end": "2B2F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2B30",
+      "code_point_end": "2B44",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2B45",
+      "code_point_end": "2B46",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2B47",
+      "code_point_end": "2B4C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2B4D",
+      "code_point_end": "2B54",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2B55",
+      "code_point_end": "2B59",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "2B5A",
+      "code_point_end": "2B73",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2B76",
+      "code_point_end": "2B95",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2B98",
+      "code_point_end": "2BB9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2BBD",
+      "code_point_end": "2BC8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2BCA",
+      "code_point_end": "2BD1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2BEC",
+      "code_point_end": "2BEF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2C00",
+      "code_point_end": "2C2E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2C30",
+      "code_point_end": "2C5E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2C60",
+      "code_point_end": "2C7B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2C7C",
+      "code_point_end": "2C7D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2C7E",
+      "code_point_end": "2C7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2C80",
+      "code_point_end": "2CE4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2CE5",
+      "code_point_end": "2CEA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2CEB",
+      "code_point_end": "2CEE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2CEF",
+      "code_point_end": "2CF1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2CF2",
+      "code_point_end": "2CF3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2CF9",
+      "code_point_end": "2CFC",
+      "property": "N"
+    },
+    {
+      "code_point": "2CFD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2CFE",
+      "code_point_end": "2CFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2D00",
+      "code_point_end": "2D25",
+      "property": "N"
+    },
+    {
+      "code_point": "2D27",
+      "property": "N"
+    },
+    {
+      "code_point": "2D2D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2D30",
+      "code_point_end": "2D67",
+      "property": "N"
+    },
+    {
+      "code_point": "2D6F",
+      "property": "N"
+    },
+    {
+      "code_point": "2D70",
+      "property": "N"
+    },
+    {
+      "code_point": "2D7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2D80",
+      "code_point_end": "2D96",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2DA0",
+      "code_point_end": "2DA6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2DA8",
+      "code_point_end": "2DAE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2DB0",
+      "code_point_end": "2DB6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2DB8",
+      "code_point_end": "2DBE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2DC0",
+      "code_point_end": "2DC6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2DC8",
+      "code_point_end": "2DCE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2DD0",
+      "code_point_end": "2DD6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2DD8",
+      "code_point_end": "2DDE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2DE0",
+      "code_point_end": "2DFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E00",
+      "code_point_end": "2E01",
+      "property": "N"
+    },
+    {
+      "code_point": "2E02",
+      "property": "N"
+    },
+    {
+      "code_point": "2E03",
+      "property": "N"
+    },
+    {
+      "code_point": "2E04",
+      "property": "N"
+    },
+    {
+      "code_point": "2E05",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E06",
+      "code_point_end": "2E08",
+      "property": "N"
+    },
+    {
+      "code_point": "2E09",
+      "property": "N"
+    },
+    {
+      "code_point": "2E0A",
+      "property": "N"
+    },
+    {
+      "code_point": "2E0B",
+      "property": "N"
+    },
+    {
+      "code_point": "2E0C",
+      "property": "N"
+    },
+    {
+      "code_point": "2E0D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E0E",
+      "code_point_end": "2E16",
+      "property": "N"
+    },
+    {
+      "code_point": "2E17",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E18",
+      "code_point_end": "2E19",
+      "property": "N"
+    },
+    {
+      "code_point": "2E1A",
+      "property": "N"
+    },
+    {
+      "code_point": "2E1B",
+      "property": "N"
+    },
+    {
+      "code_point": "2E1C",
+      "property": "N"
+    },
+    {
+      "code_point": "2E1D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E1E",
+      "code_point_end": "2E1F",
+      "property": "N"
+    },
+    {
+      "code_point": "2E20",
+      "property": "N"
+    },
+    {
+      "code_point": "2E21",
+      "property": "N"
+    },
+    {
+      "code_point": "2E22",
+      "property": "N"
+    },
+    {
+      "code_point": "2E23",
+      "property": "N"
+    },
+    {
+      "code_point": "2E24",
+      "property": "N"
+    },
+    {
+      "code_point": "2E25",
+      "property": "N"
+    },
+    {
+      "code_point": "2E26",
+      "property": "N"
+    },
+    {
+      "code_point": "2E27",
+      "property": "N"
+    },
+    {
+      "code_point": "2E28",
+      "property": "N"
+    },
+    {
+      "code_point": "2E29",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E2A",
+      "code_point_end": "2E2E",
+      "property": "N"
+    },
+    {
+      "code_point": "2E2F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E30",
+      "code_point_end": "2E39",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E3A",
+      "code_point_end": "2E3B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E3C",
+      "code_point_end": "2E3F",
+      "property": "N"
+    },
+    {
+      "code_point": "2E40",
+      "property": "N"
+    },
+    {
+      "code_point": "2E41",
+      "property": "N"
+    },
+    {
+      "code_point": "2E42",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "2E80",
+      "code_point_end": "2E99",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2E9B",
+      "code_point_end": "2EF3",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2F00",
+      "code_point_end": "2FD5",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2FF0",
+      "code_point_end": "2FFB",
+      "property": "W"
+    },
+    {
+      "code_point": "3000",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "3001",
+      "code_point_end": "3003",
+      "property": "W"
+    },
+    {
+      "code_point": "3004",
+      "property": "W"
+    },
+    {
+      "code_point": "3005",
+      "property": "W"
+    },
+    {
+      "code_point": "3006",
+      "property": "W"
+    },
+    {
+      "code_point": "3007",
+      "property": "W"
+    },
+    {
+      "code_point": "3008",
+      "property": "W"
+    },
+    {
+      "code_point": "3009",
+      "property": "W"
+    },
+    {
+      "code_point": "300A",
+      "property": "W"
+    },
+    {
+      "code_point": "300B",
+      "property": "W"
+    },
+    {
+      "code_point": "300C",
+      "property": "W"
+    },
+    {
+      "code_point": "300D",
+      "property": "W"
+    },
+    {
+      "code_point": "300E",
+      "property": "W"
+    },
+    {
+      "code_point": "300F",
+      "property": "W"
+    },
+    {
+      "code_point": "3010",
+      "property": "W"
+    },
+    {
+      "code_point": "3011",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3012",
+      "code_point_end": "3013",
+      "property": "W"
+    },
+    {
+      "code_point": "3014",
+      "property": "W"
+    },
+    {
+      "code_point": "3015",
+      "property": "W"
+    },
+    {
+      "code_point": "3016",
+      "property": "W"
+    },
+    {
+      "code_point": "3017",
+      "property": "W"
+    },
+    {
+      "code_point": "3018",
+      "property": "W"
+    },
+    {
+      "code_point": "3019",
+      "property": "W"
+    },
+    {
+      "code_point": "301A",
+      "property": "W"
+    },
+    {
+      "code_point": "301B",
+      "property": "W"
+    },
+    {
+      "code_point": "301C",
+      "property": "W"
+    },
+    {
+      "code_point": "301D",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "301E",
+      "code_point_end": "301F",
+      "property": "W"
+    },
+    {
+      "code_point": "3020",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3021",
+      "code_point_end": "3029",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "302A",
+      "code_point_end": "302D",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "302E",
+      "code_point_end": "302F",
+      "property": "W"
+    },
+    {
+      "code_point": "3030",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3031",
+      "code_point_end": "3035",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3036",
+      "code_point_end": "3037",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3038",
+      "code_point_end": "303A",
+      "property": "W"
+    },
+    {
+      "code_point": "303B",
+      "property": "W"
+    },
+    {
+      "code_point": "303C",
+      "property": "W"
+    },
+    {
+      "code_point": "303D",
+      "property": "W"
+    },
+    {
+      "code_point": "303E",
+      "property": "W"
+    },
+    {
+      "code_point": "303F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "3041",
+      "code_point_end": "3096",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3099",
+      "code_point_end": "309A",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "309B",
+      "code_point_end": "309C",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "309D",
+      "code_point_end": "309E",
+      "property": "W"
+    },
+    {
+      "code_point": "309F",
+      "property": "W"
+    },
+    {
+      "code_point": "30A0",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "30A1",
+      "code_point_end": "30FA",
+      "property": "W"
+    },
+    {
+      "code_point": "30FB",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "30FC",
+      "code_point_end": "30FE",
+      "property": "W"
+    },
+    {
+      "code_point": "30FF",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3105",
+      "code_point_end": "312D",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3131",
+      "code_point_end": "318E",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3190",
+      "code_point_end": "3191",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3192",
+      "code_point_end": "3195",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3196",
+      "code_point_end": "319F",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "31A0",
+      "code_point_end": "31BA",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "31C0",
+      "code_point_end": "31E3",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "31F0",
+      "code_point_end": "31FF",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3200",
+      "code_point_end": "321E",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3220",
+      "code_point_end": "3229",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "322A",
+      "code_point_end": "3247",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3248",
+      "code_point_end": "324F",
+      "property": "A"
+    },
+    {
+      "code_point": "3250",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3251",
+      "code_point_end": "325F",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3260",
+      "code_point_end": "327F",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3280",
+      "code_point_end": "3289",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "328A",
+      "code_point_end": "32B0",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "32B1",
+      "code_point_end": "32BF",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "32C0",
+      "code_point_end": "32FE",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3300",
+      "code_point_end": "33FF",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "3400",
+      "code_point_end": "4DB5",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "4DB6",
+      "code_point_end": "4DBF",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "4DC0",
+      "code_point_end": "4DFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "4E00",
+      "code_point_end": "9FD5",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "9FD6",
+      "code_point_end": "9FFF",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "A000",
+      "code_point_end": "A014",
+      "property": "W"
+    },
+    {
+      "code_point": "A015",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "A016",
+      "code_point_end": "A48C",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "A490",
+      "code_point_end": "A4C6",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "A4D0",
+      "code_point_end": "A4F7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A4F8",
+      "code_point_end": "A4FD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A4FE",
+      "code_point_end": "A4FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A500",
+      "code_point_end": "A60B",
+      "property": "N"
+    },
+    {
+      "code_point": "A60C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A60D",
+      "code_point_end": "A60F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A610",
+      "code_point_end": "A61F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A620",
+      "code_point_end": "A629",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A62A",
+      "code_point_end": "A62B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A640",
+      "code_point_end": "A66D",
+      "property": "N"
+    },
+    {
+      "code_point": "A66E",
+      "property": "N"
+    },
+    {
+      "code_point": "A66F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A670",
+      "code_point_end": "A672",
+      "property": "N"
+    },
+    {
+      "code_point": "A673",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A674",
+      "code_point_end": "A67D",
+      "property": "N"
+    },
+    {
+      "code_point": "A67E",
+      "property": "N"
+    },
+    {
+      "code_point": "A67F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A680",
+      "code_point_end": "A69B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A69C",
+      "code_point_end": "A69D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A69E",
+      "code_point_end": "A69F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A6A0",
+      "code_point_end": "A6E5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A6E6",
+      "code_point_end": "A6EF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A6F0",
+      "code_point_end": "A6F1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A6F2",
+      "code_point_end": "A6F7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A700",
+      "code_point_end": "A716",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A717",
+      "code_point_end": "A71F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A720",
+      "code_point_end": "A721",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A722",
+      "code_point_end": "A76F",
+      "property": "N"
+    },
+    {
+      "code_point": "A770",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A771",
+      "code_point_end": "A787",
+      "property": "N"
+    },
+    {
+      "code_point": "A788",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A789",
+      "code_point_end": "A78A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A78B",
+      "code_point_end": "A78E",
+      "property": "N"
+    },
+    {
+      "code_point": "A78F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A790",
+      "code_point_end": "A7AD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A7B0",
+      "code_point_end": "A7B7",
+      "property": "N"
+    },
+    {
+      "code_point": "A7F7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A7F8",
+      "code_point_end": "A7F9",
+      "property": "N"
+    },
+    {
+      "code_point": "A7FA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A7FB",
+      "code_point_end": "A7FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A800",
+      "code_point_end": "A801",
+      "property": "N"
+    },
+    {
+      "code_point": "A802",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A803",
+      "code_point_end": "A805",
+      "property": "N"
+    },
+    {
+      "code_point": "A806",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A807",
+      "code_point_end": "A80A",
+      "property": "N"
+    },
+    {
+      "code_point": "A80B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A80C",
+      "code_point_end": "A822",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A823",
+      "code_point_end": "A824",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A825",
+      "code_point_end": "A826",
+      "property": "N"
+    },
+    {
+      "code_point": "A827",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A828",
+      "code_point_end": "A82B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A830",
+      "code_point_end": "A835",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A836",
+      "code_point_end": "A837",
+      "property": "N"
+    },
+    {
+      "code_point": "A838",
+      "property": "N"
+    },
+    {
+      "code_point": "A839",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A840",
+      "code_point_end": "A873",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A874",
+      "code_point_end": "A877",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A880",
+      "code_point_end": "A881",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A882",
+      "code_point_end": "A8B3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A8B4",
+      "code_point_end": "A8C3",
+      "property": "N"
+    },
+    {
+      "code_point": "A8C4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A8CE",
+      "code_point_end": "A8CF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A8D0",
+      "code_point_end": "A8D9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A8E0",
+      "code_point_end": "A8F1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A8F2",
+      "code_point_end": "A8F7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A8F8",
+      "code_point_end": "A8FA",
+      "property": "N"
+    },
+    {
+      "code_point": "A8FB",
+      "property": "N"
+    },
+    {
+      "code_point": "A8FC",
+      "property": "N"
+    },
+    {
+      "code_point": "A8FD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A900",
+      "code_point_end": "A909",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A90A",
+      "code_point_end": "A925",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A926",
+      "code_point_end": "A92D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A92E",
+      "code_point_end": "A92F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A930",
+      "code_point_end": "A946",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A947",
+      "code_point_end": "A951",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A952",
+      "code_point_end": "A953",
+      "property": "N"
+    },
+    {
+      "code_point": "A95F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A960",
+      "code_point_end": "A97C",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "A980",
+      "code_point_end": "A982",
+      "property": "N"
+    },
+    {
+      "code_point": "A983",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A984",
+      "code_point_end": "A9B2",
+      "property": "N"
+    },
+    {
+      "code_point": "A9B3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9B4",
+      "code_point_end": "A9B5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9B6",
+      "code_point_end": "A9B9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9BA",
+      "code_point_end": "A9BB",
+      "property": "N"
+    },
+    {
+      "code_point": "A9BC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9BD",
+      "code_point_end": "A9C0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9C1",
+      "code_point_end": "A9CD",
+      "property": "N"
+    },
+    {
+      "code_point": "A9CF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9D0",
+      "code_point_end": "A9D9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9DE",
+      "code_point_end": "A9DF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9E0",
+      "code_point_end": "A9E4",
+      "property": "N"
+    },
+    {
+      "code_point": "A9E5",
+      "property": "N"
+    },
+    {
+      "code_point": "A9E6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9E7",
+      "code_point_end": "A9EF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9F0",
+      "code_point_end": "A9F9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "A9FA",
+      "code_point_end": "A9FE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA00",
+      "code_point_end": "AA28",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA29",
+      "code_point_end": "AA2E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA2F",
+      "code_point_end": "AA30",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA31",
+      "code_point_end": "AA32",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA33",
+      "code_point_end": "AA34",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA35",
+      "code_point_end": "AA36",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA40",
+      "code_point_end": "AA42",
+      "property": "N"
+    },
+    {
+      "code_point": "AA43",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA44",
+      "code_point_end": "AA4B",
+      "property": "N"
+    },
+    {
+      "code_point": "AA4C",
+      "property": "N"
+    },
+    {
+      "code_point": "AA4D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA50",
+      "code_point_end": "AA59",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA5C",
+      "code_point_end": "AA5F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA60",
+      "code_point_end": "AA6F",
+      "property": "N"
+    },
+    {
+      "code_point": "AA70",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA71",
+      "code_point_end": "AA76",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA77",
+      "code_point_end": "AA79",
+      "property": "N"
+    },
+    {
+      "code_point": "AA7A",
+      "property": "N"
+    },
+    {
+      "code_point": "AA7B",
+      "property": "N"
+    },
+    {
+      "code_point": "AA7C",
+      "property": "N"
+    },
+    {
+      "code_point": "AA7D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA7E",
+      "code_point_end": "AA7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AA80",
+      "code_point_end": "AAAF",
+      "property": "N"
+    },
+    {
+      "code_point": "AAB0",
+      "property": "N"
+    },
+    {
+      "code_point": "AAB1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AAB2",
+      "code_point_end": "AAB4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AAB5",
+      "code_point_end": "AAB6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AAB7",
+      "code_point_end": "AAB8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AAB9",
+      "code_point_end": "AABD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AABE",
+      "code_point_end": "AABF",
+      "property": "N"
+    },
+    {
+      "code_point": "AAC0",
+      "property": "N"
+    },
+    {
+      "code_point": "AAC1",
+      "property": "N"
+    },
+    {
+      "code_point": "AAC2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AADB",
+      "code_point_end": "AADC",
+      "property": "N"
+    },
+    {
+      "code_point": "AADD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AADE",
+      "code_point_end": "AADF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AAE0",
+      "code_point_end": "AAEA",
+      "property": "N"
+    },
+    {
+      "code_point": "AAEB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AAEC",
+      "code_point_end": "AAED",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AAEE",
+      "code_point_end": "AAEF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AAF0",
+      "code_point_end": "AAF1",
+      "property": "N"
+    },
+    {
+      "code_point": "AAF2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AAF3",
+      "code_point_end": "AAF4",
+      "property": "N"
+    },
+    {
+      "code_point": "AAF5",
+      "property": "N"
+    },
+    {
+      "code_point": "AAF6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AB01",
+      "code_point_end": "AB06",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AB09",
+      "code_point_end": "AB0E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AB11",
+      "code_point_end": "AB16",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AB20",
+      "code_point_end": "AB26",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AB28",
+      "code_point_end": "AB2E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AB30",
+      "code_point_end": "AB5A",
+      "property": "N"
+    },
+    {
+      "code_point": "AB5B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AB5C",
+      "code_point_end": "AB5F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AB60",
+      "code_point_end": "AB65",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AB70",
+      "code_point_end": "ABBF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "ABC0",
+      "code_point_end": "ABE2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "ABE3",
+      "code_point_end": "ABE4",
+      "property": "N"
+    },
+    {
+      "code_point": "ABE5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "ABE6",
+      "code_point_end": "ABE7",
+      "property": "N"
+    },
+    {
+      "code_point": "ABE8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "ABE9",
+      "code_point_end": "ABEA",
+      "property": "N"
+    },
+    {
+      "code_point": "ABEB",
+      "property": "N"
+    },
+    {
+      "code_point": "ABEC",
+      "property": "N"
+    },
+    {
+      "code_point": "ABED",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "ABF0",
+      "code_point_end": "ABF9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "AC00",
+      "code_point_end": "D7A3",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "D7B0",
+      "code_point_end": "D7C6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "D7CB",
+      "code_point_end": "D7FB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "D800",
+      "code_point_end": "DB7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "DB80",
+      "code_point_end": "DBFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "DC00",
+      "code_point_end": "DFFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "E000",
+      "code_point_end": "F8FF",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "F900",
+      "code_point_end": "FA6D",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FA6E",
+      "code_point_end": "FA6F",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FA70",
+      "code_point_end": "FAD9",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FADA",
+      "code_point_end": "FAFF",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FB00",
+      "code_point_end": "FB06",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FB13",
+      "code_point_end": "FB17",
+      "property": "N"
+    },
+    {
+      "code_point": "FB1D",
+      "property": "N"
+    },
+    {
+      "code_point": "FB1E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FB1F",
+      "code_point_end": "FB28",
+      "property": "N"
+    },
+    {
+      "code_point": "FB29",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FB2A",
+      "code_point_end": "FB36",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FB38",
+      "code_point_end": "FB3C",
+      "property": "N"
+    },
+    {
+      "code_point": "FB3E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FB40",
+      "code_point_end": "FB41",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FB43",
+      "code_point_end": "FB44",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FB46",
+      "code_point_end": "FB4F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FB50",
+      "code_point_end": "FBB1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FBB2",
+      "code_point_end": "FBC1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FBD3",
+      "code_point_end": "FD3D",
+      "property": "N"
+    },
+    {
+      "code_point": "FD3E",
+      "property": "N"
+    },
+    {
+      "code_point": "FD3F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FD50",
+      "code_point_end": "FD8F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FD92",
+      "code_point_end": "FDC7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FDF0",
+      "code_point_end": "FDFB",
+      "property": "N"
+    },
+    {
+      "code_point": "FDFC",
+      "property": "N"
+    },
+    {
+      "code_point": "FDFD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FE00",
+      "code_point_end": "FE0F",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "FE10",
+      "code_point_end": "FE16",
+      "property": "W"
+    },
+    {
+      "code_point": "FE17",
+      "property": "W"
+    },
+    {
+      "code_point": "FE18",
+      "property": "W"
+    },
+    {
+      "code_point": "FE19",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE20",
+      "code_point_end": "FE2F",
+      "property": "N"
+    },
+    {
+      "code_point": "FE30",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE31",
+      "code_point_end": "FE32",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE33",
+      "code_point_end": "FE34",
+      "property": "W"
+    },
+    {
+      "code_point": "FE35",
+      "property": "W"
+    },
+    {
+      "code_point": "FE36",
+      "property": "W"
+    },
+    {
+      "code_point": "FE37",
+      "property": "W"
+    },
+    {
+      "code_point": "FE38",
+      "property": "W"
+    },
+    {
+      "code_point": "FE39",
+      "property": "W"
+    },
+    {
+      "code_point": "FE3A",
+      "property": "W"
+    },
+    {
+      "code_point": "FE3B",
+      "property": "W"
+    },
+    {
+      "code_point": "FE3C",
+      "property": "W"
+    },
+    {
+      "code_point": "FE3D",
+      "property": "W"
+    },
+    {
+      "code_point": "FE3E",
+      "property": "W"
+    },
+    {
+      "code_point": "FE3F",
+      "property": "W"
+    },
+    {
+      "code_point": "FE40",
+      "property": "W"
+    },
+    {
+      "code_point": "FE41",
+      "property": "W"
+    },
+    {
+      "code_point": "FE42",
+      "property": "W"
+    },
+    {
+      "code_point": "FE43",
+      "property": "W"
+    },
+    {
+      "code_point": "FE44",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE45",
+      "code_point_end": "FE46",
+      "property": "W"
+    },
+    {
+      "code_point": "FE47",
+      "property": "W"
+    },
+    {
+      "code_point": "FE48",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE49",
+      "code_point_end": "FE4C",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE4D",
+      "code_point_end": "FE4F",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE50",
+      "code_point_end": "FE52",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE54",
+      "code_point_end": "FE57",
+      "property": "W"
+    },
+    {
+      "code_point": "FE58",
+      "property": "W"
+    },
+    {
+      "code_point": "FE59",
+      "property": "W"
+    },
+    {
+      "code_point": "FE5A",
+      "property": "W"
+    },
+    {
+      "code_point": "FE5B",
+      "property": "W"
+    },
+    {
+      "code_point": "FE5C",
+      "property": "W"
+    },
+    {
+      "code_point": "FE5D",
+      "property": "W"
+    },
+    {
+      "code_point": "FE5E",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE5F",
+      "code_point_end": "FE61",
+      "property": "W"
+    },
+    {
+      "code_point": "FE62",
+      "property": "W"
+    },
+    {
+      "code_point": "FE63",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE64",
+      "code_point_end": "FE66",
+      "property": "W"
+    },
+    {
+      "code_point": "FE68",
+      "property": "W"
+    },
+    {
+      "code_point": "FE69",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE6A",
+      "code_point_end": "FE6B",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "FE70",
+      "code_point_end": "FE74",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FE76",
+      "code_point_end": "FEFC",
+      "property": "N"
+    },
+    {
+      "code_point": "FEFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "FF01",
+      "code_point_end": "FF03",
+      "property": "F"
+    },
+    {
+      "code_point": "FF04",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "FF05",
+      "code_point_end": "FF07",
+      "property": "F"
+    },
+    {
+      "code_point": "FF08",
+      "property": "F"
+    },
+    {
+      "code_point": "FF09",
+      "property": "F"
+    },
+    {
+      "code_point": "FF0A",
+      "property": "F"
+    },
+    {
+      "code_point": "FF0B",
+      "property": "F"
+    },
+    {
+      "code_point": "FF0C",
+      "property": "F"
+    },
+    {
+      "code_point": "FF0D",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "FF0E",
+      "code_point_end": "FF0F",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "FF10",
+      "code_point_end": "FF19",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "FF1A",
+      "code_point_end": "FF1B",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "FF1C",
+      "code_point_end": "FF1E",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "FF1F",
+      "code_point_end": "FF20",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "FF21",
+      "code_point_end": "FF3A",
+      "property": "F"
+    },
+    {
+      "code_point": "FF3B",
+      "property": "F"
+    },
+    {
+      "code_point": "FF3C",
+      "property": "F"
+    },
+    {
+      "code_point": "FF3D",
+      "property": "F"
+    },
+    {
+      "code_point": "FF3E",
+      "property": "F"
+    },
+    {
+      "code_point": "FF3F",
+      "property": "F"
+    },
+    {
+      "code_point": "FF40",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "FF41",
+      "code_point_end": "FF5A",
+      "property": "F"
+    },
+    {
+      "code_point": "FF5B",
+      "property": "F"
+    },
+    {
+      "code_point": "FF5C",
+      "property": "F"
+    },
+    {
+      "code_point": "FF5D",
+      "property": "F"
+    },
+    {
+      "code_point": "FF5E",
+      "property": "F"
+    },
+    {
+      "code_point": "FF5F",
+      "property": "F"
+    },
+    {
+      "code_point": "FF60",
+      "property": "F"
+    },
+    {
+      "code_point": "FF61",
+      "property": "H"
+    },
+    {
+      "code_point": "FF62",
+      "property": "H"
+    },
+    {
+      "code_point": "FF63",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FF64",
+      "code_point_end": "FF65",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FF66",
+      "code_point_end": "FF6F",
+      "property": "H"
+    },
+    {
+      "code_point": "FF70",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FF71",
+      "code_point_end": "FF9D",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FF9E",
+      "code_point_end": "FF9F",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FFA0",
+      "code_point_end": "FFBE",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FFC2",
+      "code_point_end": "FFC7",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FFCA",
+      "code_point_end": "FFCF",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FFD2",
+      "code_point_end": "FFD7",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FFDA",
+      "code_point_end": "FFDC",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FFE0",
+      "code_point_end": "FFE1",
+      "property": "F"
+    },
+    {
+      "code_point": "FFE2",
+      "property": "F"
+    },
+    {
+      "code_point": "FFE3",
+      "property": "F"
+    },
+    {
+      "code_point": "FFE4",
+      "property": "F"
+    },
+    {
+      "code_point_begin": "FFE5",
+      "code_point_end": "FFE6",
+      "property": "F"
+    },
+    {
+      "code_point": "FFE8",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FFE9",
+      "code_point_end": "FFEC",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FFED",
+      "code_point_end": "FFEE",
+      "property": "H"
+    },
+    {
+      "code_point_begin": "FFF9",
+      "code_point_end": "FFFB",
+      "property": "N"
+    },
+    {
+      "code_point": "FFFC",
+      "property": "N"
+    },
+    {
+      "code_point": "FFFD",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "10000",
+      "code_point_end": "1000B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1000D",
+      "code_point_end": "10026",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10028",
+      "code_point_end": "1003A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1003C",
+      "code_point_end": "1003D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1003F",
+      "code_point_end": "1004D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10050",
+      "code_point_end": "1005D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10080",
+      "code_point_end": "100FA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10100",
+      "code_point_end": "10102",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10107",
+      "code_point_end": "10133",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10137",
+      "code_point_end": "1013F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10140",
+      "code_point_end": "10174",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10175",
+      "code_point_end": "10178",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10179",
+      "code_point_end": "10189",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1018A",
+      "code_point_end": "1018B",
+      "property": "N"
+    },
+    {
+      "code_point": "1018C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10190",
+      "code_point_end": "1019B",
+      "property": "N"
+    },
+    {
+      "code_point": "101A0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "101D0",
+      "code_point_end": "101FC",
+      "property": "N"
+    },
+    {
+      "code_point": "101FD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10280",
+      "code_point_end": "1029C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "102A0",
+      "code_point_end": "102D0",
+      "property": "N"
+    },
+    {
+      "code_point": "102E0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "102E1",
+      "code_point_end": "102FB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10300",
+      "code_point_end": "1031F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10320",
+      "code_point_end": "10323",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10330",
+      "code_point_end": "10340",
+      "property": "N"
+    },
+    {
+      "code_point": "10341",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10342",
+      "code_point_end": "10349",
+      "property": "N"
+    },
+    {
+      "code_point": "1034A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10350",
+      "code_point_end": "10375",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10376",
+      "code_point_end": "1037A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10380",
+      "code_point_end": "1039D",
+      "property": "N"
+    },
+    {
+      "code_point": "1039F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "103A0",
+      "code_point_end": "103C3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "103C8",
+      "code_point_end": "103CF",
+      "property": "N"
+    },
+    {
+      "code_point": "103D0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "103D1",
+      "code_point_end": "103D5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10400",
+      "code_point_end": "1044F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10450",
+      "code_point_end": "1047F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10480",
+      "code_point_end": "1049D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "104A0",
+      "code_point_end": "104A9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10500",
+      "code_point_end": "10527",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10530",
+      "code_point_end": "10563",
+      "property": "N"
+    },
+    {
+      "code_point": "1056F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10600",
+      "code_point_end": "10736",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10740",
+      "code_point_end": "10755",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10760",
+      "code_point_end": "10767",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10800",
+      "code_point_end": "10805",
+      "property": "N"
+    },
+    {
+      "code_point": "10808",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1080A",
+      "code_point_end": "10835",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10837",
+      "code_point_end": "10838",
+      "property": "N"
+    },
+    {
+      "code_point": "1083C",
+      "property": "N"
+    },
+    {
+      "code_point": "1083F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10840",
+      "code_point_end": "10855",
+      "property": "N"
+    },
+    {
+      "code_point": "10857",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10858",
+      "code_point_end": "1085F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10860",
+      "code_point_end": "10876",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10877",
+      "code_point_end": "10878",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10879",
+      "code_point_end": "1087F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10880",
+      "code_point_end": "1089E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "108A7",
+      "code_point_end": "108AF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "108E0",
+      "code_point_end": "108F2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "108F4",
+      "code_point_end": "108F5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "108FB",
+      "code_point_end": "108FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10900",
+      "code_point_end": "10915",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10916",
+      "code_point_end": "1091B",
+      "property": "N"
+    },
+    {
+      "code_point": "1091F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10920",
+      "code_point_end": "10939",
+      "property": "N"
+    },
+    {
+      "code_point": "1093F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10980",
+      "code_point_end": "1099F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "109A0",
+      "code_point_end": "109B7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "109BC",
+      "code_point_end": "109BD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "109BE",
+      "code_point_end": "109BF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "109C0",
+      "code_point_end": "109CF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "109D2",
+      "code_point_end": "109FF",
+      "property": "N"
+    },
+    {
+      "code_point": "10A00",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A01",
+      "code_point_end": "10A03",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A05",
+      "code_point_end": "10A06",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A0C",
+      "code_point_end": "10A0F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A10",
+      "code_point_end": "10A13",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A15",
+      "code_point_end": "10A17",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A19",
+      "code_point_end": "10A33",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A38",
+      "code_point_end": "10A3A",
+      "property": "N"
+    },
+    {
+      "code_point": "10A3F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A40",
+      "code_point_end": "10A47",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A50",
+      "code_point_end": "10A58",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A60",
+      "code_point_end": "10A7C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A7D",
+      "code_point_end": "10A7E",
+      "property": "N"
+    },
+    {
+      "code_point": "10A7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A80",
+      "code_point_end": "10A9C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10A9D",
+      "code_point_end": "10A9F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10AC0",
+      "code_point_end": "10AC7",
+      "property": "N"
+    },
+    {
+      "code_point": "10AC8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10AC9",
+      "code_point_end": "10AE4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10AE5",
+      "code_point_end": "10AE6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10AEB",
+      "code_point_end": "10AEF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10AF0",
+      "code_point_end": "10AF6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10B00",
+      "code_point_end": "10B35",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10B39",
+      "code_point_end": "10B3F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10B40",
+      "code_point_end": "10B55",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10B58",
+      "code_point_end": "10B5F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10B60",
+      "code_point_end": "10B72",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10B78",
+      "code_point_end": "10B7F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10B80",
+      "code_point_end": "10B91",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10B99",
+      "code_point_end": "10B9C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10BA9",
+      "code_point_end": "10BAF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10C00",
+      "code_point_end": "10C48",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10C80",
+      "code_point_end": "10CB2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10CC0",
+      "code_point_end": "10CF2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10CFA",
+      "code_point_end": "10CFF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "10E60",
+      "code_point_end": "10E7E",
+      "property": "N"
+    },
+    {
+      "code_point": "11000",
+      "property": "N"
+    },
+    {
+      "code_point": "11001",
+      "property": "N"
+    },
+    {
+      "code_point": "11002",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11003",
+      "code_point_end": "11037",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11038",
+      "code_point_end": "11046",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11047",
+      "code_point_end": "1104D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11052",
+      "code_point_end": "11065",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11066",
+      "code_point_end": "1106F",
+      "property": "N"
+    },
+    {
+      "code_point": "1107F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11080",
+      "code_point_end": "11081",
+      "property": "N"
+    },
+    {
+      "code_point": "11082",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11083",
+      "code_point_end": "110AF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "110B0",
+      "code_point_end": "110B2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "110B3",
+      "code_point_end": "110B6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "110B7",
+      "code_point_end": "110B8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "110B9",
+      "code_point_end": "110BA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "110BB",
+      "code_point_end": "110BC",
+      "property": "N"
+    },
+    {
+      "code_point": "110BD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "110BE",
+      "code_point_end": "110C1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "110D0",
+      "code_point_end": "110E8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "110F0",
+      "code_point_end": "110F9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11100",
+      "code_point_end": "11102",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11103",
+      "code_point_end": "11126",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11127",
+      "code_point_end": "1112B",
+      "property": "N"
+    },
+    {
+      "code_point": "1112C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1112D",
+      "code_point_end": "11134",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11136",
+      "code_point_end": "1113F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11140",
+      "code_point_end": "11143",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11150",
+      "code_point_end": "11172",
+      "property": "N"
+    },
+    {
+      "code_point": "11173",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11174",
+      "code_point_end": "11175",
+      "property": "N"
+    },
+    {
+      "code_point": "11176",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11180",
+      "code_point_end": "11181",
+      "property": "N"
+    },
+    {
+      "code_point": "11182",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11183",
+      "code_point_end": "111B2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "111B3",
+      "code_point_end": "111B5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "111B6",
+      "code_point_end": "111BE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "111BF",
+      "code_point_end": "111C0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "111C1",
+      "code_point_end": "111C4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "111C5",
+      "code_point_end": "111C9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "111CA",
+      "code_point_end": "111CC",
+      "property": "N"
+    },
+    {
+      "code_point": "111CD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "111D0",
+      "code_point_end": "111D9",
+      "property": "N"
+    },
+    {
+      "code_point": "111DA",
+      "property": "N"
+    },
+    {
+      "code_point": "111DB",
+      "property": "N"
+    },
+    {
+      "code_point": "111DC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "111DD",
+      "code_point_end": "111DF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "111E1",
+      "code_point_end": "111F4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11200",
+      "code_point_end": "11211",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11213",
+      "code_point_end": "1122B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1122C",
+      "code_point_end": "1122E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1122F",
+      "code_point_end": "11231",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11232",
+      "code_point_end": "11233",
+      "property": "N"
+    },
+    {
+      "code_point": "11234",
+      "property": "N"
+    },
+    {
+      "code_point": "11235",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11236",
+      "code_point_end": "11237",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11238",
+      "code_point_end": "1123D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11280",
+      "code_point_end": "11286",
+      "property": "N"
+    },
+    {
+      "code_point": "11288",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1128A",
+      "code_point_end": "1128D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1128F",
+      "code_point_end": "1129D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1129F",
+      "code_point_end": "112A8",
+      "property": "N"
+    },
+    {
+      "code_point": "112A9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "112B0",
+      "code_point_end": "112DE",
+      "property": "N"
+    },
+    {
+      "code_point": "112DF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "112E0",
+      "code_point_end": "112E2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "112E3",
+      "code_point_end": "112EA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "112F0",
+      "code_point_end": "112F9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11300",
+      "code_point_end": "11301",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11302",
+      "code_point_end": "11303",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11305",
+      "code_point_end": "1130C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1130F",
+      "code_point_end": "11310",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11313",
+      "code_point_end": "11328",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1132A",
+      "code_point_end": "11330",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11332",
+      "code_point_end": "11333",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11335",
+      "code_point_end": "11339",
+      "property": "N"
+    },
+    {
+      "code_point": "1133C",
+      "property": "N"
+    },
+    {
+      "code_point": "1133D",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1133E",
+      "code_point_end": "1133F",
+      "property": "N"
+    },
+    {
+      "code_point": "11340",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11341",
+      "code_point_end": "11344",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11347",
+      "code_point_end": "11348",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1134B",
+      "code_point_end": "1134D",
+      "property": "N"
+    },
+    {
+      "code_point": "11350",
+      "property": "N"
+    },
+    {
+      "code_point": "11357",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1135D",
+      "code_point_end": "11361",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11362",
+      "code_point_end": "11363",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11366",
+      "code_point_end": "1136C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11370",
+      "code_point_end": "11374",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11480",
+      "code_point_end": "114AF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "114B0",
+      "code_point_end": "114B2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "114B3",
+      "code_point_end": "114B8",
+      "property": "N"
+    },
+    {
+      "code_point": "114B9",
+      "property": "N"
+    },
+    {
+      "code_point": "114BA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "114BB",
+      "code_point_end": "114BE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "114BF",
+      "code_point_end": "114C0",
+      "property": "N"
+    },
+    {
+      "code_point": "114C1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "114C2",
+      "code_point_end": "114C3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "114C4",
+      "code_point_end": "114C5",
+      "property": "N"
+    },
+    {
+      "code_point": "114C6",
+      "property": "N"
+    },
+    {
+      "code_point": "114C7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "114D0",
+      "code_point_end": "114D9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11580",
+      "code_point_end": "115AE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "115AF",
+      "code_point_end": "115B1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "115B2",
+      "code_point_end": "115B5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "115B8",
+      "code_point_end": "115BB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "115BC",
+      "code_point_end": "115BD",
+      "property": "N"
+    },
+    {
+      "code_point": "115BE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "115BF",
+      "code_point_end": "115C0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "115C1",
+      "code_point_end": "115D7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "115D8",
+      "code_point_end": "115DB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "115DC",
+      "code_point_end": "115DD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11600",
+      "code_point_end": "1162F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11630",
+      "code_point_end": "11632",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11633",
+      "code_point_end": "1163A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1163B",
+      "code_point_end": "1163C",
+      "property": "N"
+    },
+    {
+      "code_point": "1163D",
+      "property": "N"
+    },
+    {
+      "code_point": "1163E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1163F",
+      "code_point_end": "11640",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11641",
+      "code_point_end": "11643",
+      "property": "N"
+    },
+    {
+      "code_point": "11644",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11650",
+      "code_point_end": "11659",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11680",
+      "code_point_end": "116AA",
+      "property": "N"
+    },
+    {
+      "code_point": "116AB",
+      "property": "N"
+    },
+    {
+      "code_point": "116AC",
+      "property": "N"
+    },
+    {
+      "code_point": "116AD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "116AE",
+      "code_point_end": "116AF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "116B0",
+      "code_point_end": "116B5",
+      "property": "N"
+    },
+    {
+      "code_point": "116B6",
+      "property": "N"
+    },
+    {
+      "code_point": "116B7",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "116C0",
+      "code_point_end": "116C9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11700",
+      "code_point_end": "11719",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1171D",
+      "code_point_end": "1171F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11720",
+      "code_point_end": "11721",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11722",
+      "code_point_end": "11725",
+      "property": "N"
+    },
+    {
+      "code_point": "11726",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11727",
+      "code_point_end": "1172B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11730",
+      "code_point_end": "11739",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1173A",
+      "code_point_end": "1173B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1173C",
+      "code_point_end": "1173E",
+      "property": "N"
+    },
+    {
+      "code_point": "1173F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "118A0",
+      "code_point_end": "118DF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "118E0",
+      "code_point_end": "118E9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "118EA",
+      "code_point_end": "118F2",
+      "property": "N"
+    },
+    {
+      "code_point": "118FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "11AC0",
+      "code_point_end": "11AF8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "12000",
+      "code_point_end": "12399",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "12400",
+      "code_point_end": "1246E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "12470",
+      "code_point_end": "12474",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "12480",
+      "code_point_end": "12543",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "13000",
+      "code_point_end": "1342E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "14400",
+      "code_point_end": "14646",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16800",
+      "code_point_end": "16A38",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16A40",
+      "code_point_end": "16A5E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16A60",
+      "code_point_end": "16A69",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16A6E",
+      "code_point_end": "16A6F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16AD0",
+      "code_point_end": "16AED",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16AF0",
+      "code_point_end": "16AF4",
+      "property": "N"
+    },
+    {
+      "code_point": "16AF5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16B00",
+      "code_point_end": "16B2F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16B30",
+      "code_point_end": "16B36",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16B37",
+      "code_point_end": "16B3B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16B3C",
+      "code_point_end": "16B3F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16B40",
+      "code_point_end": "16B43",
+      "property": "N"
+    },
+    {
+      "code_point": "16B44",
+      "property": "N"
+    },
+    {
+      "code_point": "16B45",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16B50",
+      "code_point_end": "16B59",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16B5B",
+      "code_point_end": "16B61",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16B63",
+      "code_point_end": "16B77",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16B7D",
+      "code_point_end": "16B8F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16F00",
+      "code_point_end": "16F44",
+      "property": "N"
+    },
+    {
+      "code_point": "16F50",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16F51",
+      "code_point_end": "16F7E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16F8F",
+      "code_point_end": "16F92",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "16F93",
+      "code_point_end": "16F9F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1B000",
+      "code_point_end": "1B001",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "1BC00",
+      "code_point_end": "1BC6A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BC70",
+      "code_point_end": "1BC7C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BC80",
+      "code_point_end": "1BC88",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BC90",
+      "code_point_end": "1BC99",
+      "property": "N"
+    },
+    {
+      "code_point": "1BC9C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BC9D",
+      "code_point_end": "1BC9E",
+      "property": "N"
+    },
+    {
+      "code_point": "1BC9F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1BCA0",
+      "code_point_end": "1BCA3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D000",
+      "code_point_end": "1D0F5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D100",
+      "code_point_end": "1D126",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D129",
+      "code_point_end": "1D164",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D165",
+      "code_point_end": "1D166",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D167",
+      "code_point_end": "1D169",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D16A",
+      "code_point_end": "1D16C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D16D",
+      "code_point_end": "1D172",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D173",
+      "code_point_end": "1D17A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D17B",
+      "code_point_end": "1D182",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D183",
+      "code_point_end": "1D184",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D185",
+      "code_point_end": "1D18B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D18C",
+      "code_point_end": "1D1A9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D1AA",
+      "code_point_end": "1D1AD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D1AE",
+      "code_point_end": "1D1E8",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D200",
+      "code_point_end": "1D241",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D242",
+      "code_point_end": "1D244",
+      "property": "N"
+    },
+    {
+      "code_point": "1D245",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D300",
+      "code_point_end": "1D356",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D360",
+      "code_point_end": "1D371",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D400",
+      "code_point_end": "1D454",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D456",
+      "code_point_end": "1D49C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D49E",
+      "code_point_end": "1D49F",
+      "property": "N"
+    },
+    {
+      "code_point": "1D4A2",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D4A5",
+      "code_point_end": "1D4A6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D4A9",
+      "code_point_end": "1D4AC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D4AE",
+      "code_point_end": "1D4B9",
+      "property": "N"
+    },
+    {
+      "code_point": "1D4BB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D4BD",
+      "code_point_end": "1D4C3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D4C5",
+      "code_point_end": "1D505",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D507",
+      "code_point_end": "1D50A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D50D",
+      "code_point_end": "1D514",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D516",
+      "code_point_end": "1D51C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D51E",
+      "code_point_end": "1D539",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D53B",
+      "code_point_end": "1D53E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D540",
+      "code_point_end": "1D544",
+      "property": "N"
+    },
+    {
+      "code_point": "1D546",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D54A",
+      "code_point_end": "1D550",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D552",
+      "code_point_end": "1D6A5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D6A8",
+      "code_point_end": "1D6C0",
+      "property": "N"
+    },
+    {
+      "code_point": "1D6C1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D6C2",
+      "code_point_end": "1D6DA",
+      "property": "N"
+    },
+    {
+      "code_point": "1D6DB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D6DC",
+      "code_point_end": "1D6FA",
+      "property": "N"
+    },
+    {
+      "code_point": "1D6FB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D6FC",
+      "code_point_end": "1D714",
+      "property": "N"
+    },
+    {
+      "code_point": "1D715",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D716",
+      "code_point_end": "1D734",
+      "property": "N"
+    },
+    {
+      "code_point": "1D735",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D736",
+      "code_point_end": "1D74E",
+      "property": "N"
+    },
+    {
+      "code_point": "1D74F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D750",
+      "code_point_end": "1D76E",
+      "property": "N"
+    },
+    {
+      "code_point": "1D76F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D770",
+      "code_point_end": "1D788",
+      "property": "N"
+    },
+    {
+      "code_point": "1D789",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D78A",
+      "code_point_end": "1D7A8",
+      "property": "N"
+    },
+    {
+      "code_point": "1D7A9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D7AA",
+      "code_point_end": "1D7C2",
+      "property": "N"
+    },
+    {
+      "code_point": "1D7C3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D7C4",
+      "code_point_end": "1D7CB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D7CE",
+      "code_point_end": "1D7FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1D800",
+      "code_point_end": "1D9FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DA00",
+      "code_point_end": "1DA36",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DA37",
+      "code_point_end": "1DA3A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DA3B",
+      "code_point_end": "1DA6C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DA6D",
+      "code_point_end": "1DA74",
+      "property": "N"
+    },
+    {
+      "code_point": "1DA75",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DA76",
+      "code_point_end": "1DA83",
+      "property": "N"
+    },
+    {
+      "code_point": "1DA84",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DA85",
+      "code_point_end": "1DA86",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DA87",
+      "code_point_end": "1DA8B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DA9B",
+      "code_point_end": "1DA9F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1DAA1",
+      "code_point_end": "1DAAF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1E800",
+      "code_point_end": "1E8C4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1E8C7",
+      "code_point_end": "1E8CF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1E8D0",
+      "code_point_end": "1E8D6",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE00",
+      "code_point_end": "1EE03",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE05",
+      "code_point_end": "1EE1F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE21",
+      "code_point_end": "1EE22",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE24",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE27",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE29",
+      "code_point_end": "1EE32",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE34",
+      "code_point_end": "1EE37",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE39",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE3B",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE42",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE47",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE49",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE4B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE4D",
+      "code_point_end": "1EE4F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE51",
+      "code_point_end": "1EE52",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE54",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE57",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE59",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE5B",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE5D",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE5F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE61",
+      "code_point_end": "1EE62",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE64",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE67",
+      "code_point_end": "1EE6A",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE6C",
+      "code_point_end": "1EE72",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE74",
+      "code_point_end": "1EE77",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE79",
+      "code_point_end": "1EE7C",
+      "property": "N"
+    },
+    {
+      "code_point": "1EE7E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE80",
+      "code_point_end": "1EE89",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EE8B",
+      "code_point_end": "1EE9B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EEA1",
+      "code_point_end": "1EEA3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EEA5",
+      "code_point_end": "1EEA9",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EEAB",
+      "code_point_end": "1EEBB",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1EEF0",
+      "code_point_end": "1EEF1",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F000",
+      "code_point_end": "1F02B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F030",
+      "code_point_end": "1F093",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F0A0",
+      "code_point_end": "1F0AE",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F0B1",
+      "code_point_end": "1F0BF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F0C1",
+      "code_point_end": "1F0CF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F0D1",
+      "code_point_end": "1F0F5",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F100",
+      "code_point_end": "1F10A",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "1F10B",
+      "code_point_end": "1F10C",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F110",
+      "code_point_end": "1F12D",
+      "property": "A"
+    },
+    {
+      "code_point": "1F12E",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F130",
+      "code_point_end": "1F169",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "1F16A",
+      "code_point_end": "1F16B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F170",
+      "code_point_end": "1F19A",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "1F1E6",
+      "code_point_end": "1F1FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F200",
+      "code_point_end": "1F202",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "1F210",
+      "code_point_end": "1F23A",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "1F240",
+      "code_point_end": "1F248",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "1F250",
+      "code_point_end": "1F251",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "1F300",
+      "code_point_end": "1F3FA",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F3FB",
+      "code_point_end": "1F3FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F400",
+      "code_point_end": "1F579",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F57B",
+      "code_point_end": "1F5A3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F5A5",
+      "code_point_end": "1F5FF",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F600",
+      "code_point_end": "1F64F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F650",
+      "code_point_end": "1F67F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F680",
+      "code_point_end": "1F6D0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F6E0",
+      "code_point_end": "1F6EC",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F6F0",
+      "code_point_end": "1F6F3",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F700",
+      "code_point_end": "1F773",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F780",
+      "code_point_end": "1F7D4",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F800",
+      "code_point_end": "1F80B",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F810",
+      "code_point_end": "1F847",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F850",
+      "code_point_end": "1F859",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F860",
+      "code_point_end": "1F887",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F890",
+      "code_point_end": "1F8AD",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F910",
+      "code_point_end": "1F918",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "1F980",
+      "code_point_end": "1F984",
+      "property": "N"
+    },
+    {
+      "code_point": "1F9C0",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "20000",
+      "code_point_end": "2A6D6",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2A6D7",
+      "code_point_end": "2A6FF",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2A700",
+      "code_point_end": "2B734",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2B735",
+      "code_point_end": "2B73F",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2B740",
+      "code_point_end": "2B81D",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2B81E",
+      "code_point_end": "2B81F",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2B820",
+      "code_point_end": "2CEA1",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2CEA2",
+      "code_point_end": "2F7FF",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2F800",
+      "code_point_end": "2FA1D",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "2FA1E",
+      "code_point_end": "2FFFD",
+      "property": "W"
+    },
+    {
+      "code_point_begin": "30000",
+      "code_point_end": "3FFFD",
+      "property": "W"
+    },
+    {
+      "code_point": "E0001",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "E0020",
+      "code_point_end": "E007F",
+      "property": "N"
+    },
+    {
+      "code_point_begin": "E0100",
+      "code_point_end": "E01EF",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "F0000",
+      "code_point_end": "FFFFD",
+      "property": "A"
+    },
+    {
+      "code_point_begin": "100000",
+      "code_point_end": "10FFFD",
+      "property": "A"
+    }
+  ]
+}
